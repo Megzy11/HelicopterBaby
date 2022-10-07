@@ -1,0 +1,13 @@
+id: id of the sample
+*libary: paired, the sequencing method
+****collection date: different sample, checking the how many samples give for each time point
+***still need to decide how to play around this part
+*lat and lon: identical
+
+*weight, length...
+***zygosity: are they all twins?
+*delivery term and the delivery 
+*background
+*diet-milk and diet weaning
+
+

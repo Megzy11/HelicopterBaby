@@ -11,9 +11,10 @@ id: id of the sample
 *diet-milk and diet weaning
 
 Central questions we can answer now:
-- correlation of preterm-delivery vs. birthweight and birthlength
-- 
+- difference in birth weight and length in preterm or non-preterm delivery (SVEN)
+- percentage of preterm delivery in different delivery modes (SVEN)
 
 Central questions we can answer after microbiome analysis:
 - microbiome similarity between mono-/dizygotic twins
-- 
+- abundance of certain organisms depending on breast-feeding/formula
+- difference between the sexes

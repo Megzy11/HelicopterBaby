@@ -1,5 +1,5 @@
 id: id of the sample
-*libary: paired, the sequencing method
+*library: paired, the sequencing method
 ****collection date: different sample, checking the how many samples give for each time point
 ***still need to decide how to play around this part
 *lat and lon: identical
@@ -10,4 +10,10 @@ id: id of the sample
 *background
 *diet-milk and diet weaning
 
+Central questions we can answer now:
+- correlation of preterm-delivery vs. birthweight and birthlength
+- 
 
+Central questions we can answer after microbiome analysis:
+- microbiome similarity between mono-/dizygotic twins
+- 

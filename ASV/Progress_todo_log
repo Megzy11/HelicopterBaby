@@ -1,4 +1,5 @@
 To do / think about
+* Can open visualization in .ipynb s.t. can see them in github? 
 
 Solved
-* Truncation length for denoising ASV with Dada2: quality score starts decreasing at 130 nts so can keep this parameter. 
+* Truncation length for denoising ASV with Dada2 

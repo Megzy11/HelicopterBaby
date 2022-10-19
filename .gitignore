@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 **/*.qza
 **/*.qzv
+**/*.tar.gz
+taxonomy/database/*.tsv

@@ -1,0 +1,1670 @@
+id	host_id	age_days	sex	delivery_mode	zygosity	delivery_preterm	diet_milk	diet_weaning	age_months
+ERR1314182	42.1	232.0	male	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1314183	27.2	192.0	female	Cesarean	Dizygotic	True	fd	True	6.0
+ERR1314184	28.1	536.0	female	Cesarean	Monozygotic	False			18.0
+ERR1314185	28.2	537.0	female	Cesarean	Monozygotic	False			18.0
+ERR1314186	39.2	688.0	male	Cesarean	Monozygotic	True			23.0
+ERR1314187	8.1	388.0	male	Vaginal	Dizygotic	False	no milk	True	13.0
+ERR1314188	8.2	388.0	female	Vaginal	Dizygotic	False	no milk	True	13.0
+ERR1314189	29.1	591.0	female	Vaginal	Dizygotic	False			19.0
+ERR1314190	40.1	324.0	female	Vaginal	Monozygotic	True	fd	True	11.0
+ERR1314191	40.2	325.0	female	Vaginal	Monozygotic	True	fd	True	11.0
+ERR1314192	27.2	649.0	female	Cesarean	Dizygotic	True			21.0
+ERR1314196	35.1	505.0	female	Vaginal	Monozygotic	False			17.0
+ERR1314197	35.2	505.0	female	Vaginal	Monozygotic	False			17.0
+ERR1314198	47.1	305.0	male	Vaginal	Monozygotic	True	fd	True	10.0
+ERR1314199	47.2	305.0	male	Cesarean_emergency	Monozygotic	True	fd	True	10.0
+ERR1314200	4.1	878.0	female	Cesarean	Dizygotic	True			29.0
+ERR1314201	4.2	878.0	male	Cesarean	Dizygotic	True			29.0
+ERR1314202	29.2	681.0	female	Vaginal	Dizygotic	False			22.0
+ERR1314203	3.1	151.0	male	Vaginal	Monozygotic	True	fd	True	5.0
+ERR1314204	30.2	326.0	female	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1314205	36.1	184.0	male	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1314206	36.2	184.0	male	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1314207	6.1	554.0	female	Vaginal	Unknown	False			18.0
+ERR1314208	6.2	554.0	female	Vaginal	Unknown	False			18.0
+ERR1314209	35.1	596.0	female	Vaginal	Monozygotic	False			20.0
+ERR1314210	35.2	597.0	female	Vaginal	Monozygotic	False			20.0
+ERR1314178	8.2	264.0	female	Vaginal	Dizygotic	False	fd	True	9.0
+ERR1314146	30.1	692.0	female	Cesarean	Monozygotic	True			23.0
+ERR1314147	33.1	673.0	female	Cesarean	Dizygotic	False			22.0
+ERR1314148	33.2	673.0	female	Cesarean	Dizygotic	False			22.0
+ERR1314149	43.2	452.0	male	Cesarean	Monozygotic	False			15.0
+ERR1314150	44.1	437.0	male	Cesarean	Monozygotic	True			14.0
+ERR1314151	44.2	437.0	male	Cesarean	Monozygotic	True			14.0
+ERR1314152	45.1	427.0	male	Cesarean	Dizygotic	False			14.0
+ERR1314153	45.2	427.0	male	Cesarean	Dizygotic	False			14.0
+ERR1314163	29.1	772.0	female	Vaginal	Dizygotic	False			25.0
+ERR1314164	29.2	772.0	female	Vaginal	Dizygotic	False			25.0
+ERR1314165	5.1	615.0	male	Cesarean	Dizygotic	False			20.0
+ERR1314166	39.2	199.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1314167	42.1	171.0	male	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1314168	45.1	488.0	male	Cesarean	Dizygotic	False			16.0
+ERR1314145	6.2	491.0	female	Vaginal	Unknown	False			16.0
+ERR1314211	36.1	214.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1314213	37.1	174.0	female	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1314248	37.2	631.0	female	Cesarean	Monozygotic	True			21.0
+ERR1314249	39.1	230.0	male	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1314250	40.1	200.0	female	Vaginal	Monozygotic	True	fd	True	7.0
+ERR1314251	47.1	122.0	male	Vaginal	Monozygotic	True	fd	True	4.0
+ERR1314252	47.2	121.0	male	Cesarean_emergency	Monozygotic	True	fd	True	4.0
+ERR1314259	33.1	66.0	female	Cesarean	Dizygotic	False	fd	False	2.0
+ERR1314260	46.1	171.0	male	Cesarean	Dizygotic	False	fd	True	6.0
+ERR1314261	3.1	397.0	male	Vaginal	Monozygotic	True			13.0
+ERR1314247	37.1	631.0	female	Cesarean	Monozygotic	True			21.0
+ERR1314262	3.2	398.0	male	Vaginal	Monozygotic	True			13.0
+ERR1314264	37.2	389.0	female	Cesarean	Monozygotic	True			13.0
+ERR1314265	36.1	93.0	male	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1314266	36.2	93.0	male	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1314267	45.1	307.0	male	Cesarean	Dizygotic	False	fd	True	10.0
+ERR1314268	45.2	307.0	male	Cesarean	Dizygotic	False			10.0
+ERR1314275	33.2	217.0	female	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1314276	39.1	49.0	male	Cesarean	Monozygotic	True	fd	True	2.0
+ERR1314277	39.1	415.0	male	Cesarean	Monozygotic	True			14.0
+ERR1314263	37.1	389.0	female	Cesarean	Monozygotic	True			13.0
+ERR1314212	36.2	214.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1314246	37.1	601.0	female	Cesarean	Monozygotic	True			20.0
+ERR1314214	37.1	539.0	female	Cesarean	Monozygotic	True			18.0
+ERR1314215	37.2	539.0	female	Cesarean	Monozygotic	True			18.0
+ERR1314216	43.1	453.0	male	Cesarean	Monozygotic	False			15.0
+ERR1314245	30.2	53.0	female	Cesarean	Monozygotic	True	bd	False	2.0
+ERR1314235	35.1	261.0	female	Vaginal	Monozygotic	False	bd	True	9.0
+ERR1314236	35.2	261.0	female	Vaginal	Monozygotic	False	bd	True	9.0
+ERR1314237	43.1	484.0	male	Cesarean	Monozygotic	False			16.0
+ERR1314238	43.2	484.0	male	Cesarean	Monozygotic	False			16.0
+ERR1314278	39.2	49.0	male	Cesarean	Monozygotic	True	fd	True	2.0
+ERR1314144	6.1	491.0	female	Vaginal	Unknown	False			16.0
+ERR1314142	27.2	312.0	female	Cesarean	Dizygotic	True	fd	True	10.0
+ERR1314049	30.2	80.0	female	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1314050	43.1	176.0	male	Cesarean	Monozygotic	False	fd	True	6.0
+ERR1314051	45.1	517.0	male	Cesarean	Dizygotic	False			17.0
+ERR1314052	39.1	624.0	male	Cesarean	Monozygotic	True			21.0
+ERR1314053	39.2	624.0	male	Cesarean	Monozygotic	True			21.0
+ERR1314054	40.1	229.0	female	Vaginal	Monozygotic	True	fd	True	8.0
+ERR1314055	40.2	230.0	female	Vaginal	Monozygotic	True	fd	True	8.0
+ERR1314056	29.1	891.0	female	Vaginal	Dizygotic	False			29.0
+ERR1314057	29.2	891.0	female	Vaginal	Dizygotic	False			29.0
+ERR1314058	35.1	380.0	female	Vaginal	Monozygotic	False			12.0
+ERR1314060	42.2	625.0	male	Cesarean	Monozygotic	True			21.0
+ERR1314061	43.2	603.0	male	Cesarean	Monozygotic	False			20.0
+ERR1314062	46.1	198.0	male	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1314063	46.2	199.0	male	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1314073	6.1	370.0	female	Vaginal	Unknown	False	fd	True	12.0
+ERR1314059	35.2	380.0	female	Vaginal	Monozygotic	False			12.0
+ERR1314074	27.2	222.0	female	Cesarean	Dizygotic	True	fd	True	7.0
+ERR1314042	39.1	563.0	male	Cesarean	Monozygotic	True			18.0
+ERR1314040	35.2	289.0	female	Vaginal	Monozygotic	False	bd	True	9.0
+ERR1314023	35.1	532.0	female	Vaginal	Monozygotic	False			17.0
+ERR1314041	39.1	198.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1314024	35.2	533.0	female	Vaginal	Monozygotic	False			18.0
+ERR1314026	39.2	441.0	male	Cesarean	Monozygotic	True			14.0
+ERR1314027	27.2	371.0	female	Cesarean	Dizygotic	True	fd	True	12.0
+ERR1314028	30.1	323.0	female	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1314032	5.1	187.0	male	Cesarean	Dizygotic	False	fd	True	6.0
+ERR1314033	5.2	186.0	male	Cesarean	Dizygotic	False	fd	True	6.0
+ERR1314037	8.1	233.0	male	Vaginal	Dizygotic	False	fd	True	8.0
+ERR1314038	28.1	444.0	female	Cesarean	Monozygotic	False			15.0
+ERR1314039	35.1	290.0	female	Vaginal	Monozygotic	False	bd	True	10.0
+ERR1314025	39.1	441.0	male	Cesarean	Monozygotic	True			14.0
+ERR1314143	33.1	216.0	female	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1314112	5.2	279.0	male	Cesarean	Dizygotic	False	fd	True	9.0
+ERR1314113	8.1	263.0	male	Vaginal	Dizygotic	False	fd	True	9.0
+ERR1314114	27.1	860.0	female	Cesarean	Dizygotic	True			28.0
+ERR1314115	27.2	861.0	female	Cesarean	Dizygotic	True			28.0
+ERR1314116	35.1	320.0	female	Vaginal	Monozygotic	False	fd	True	11.0
+ERR1314117	35.2	321.0	female	Vaginal	Monozygotic	False	fd	True	11.0
+ERR1314111	5.1	279.0	male	Cesarean	Dizygotic	False	fd	True	9.0
+ERR1314133	42.2	231.0	male	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1314134	8.1	690.0	male	Vaginal	Dizygotic	False			23.0
+ERR1314135	8.2	690.0	female	Vaginal	Dizygotic	False			23.0
+ERR1314136	37.1	690.0	female	Cesarean	Monozygotic	True			23.0
+ERR1314137	37.2	690.0	female	Cesarean	Monozygotic	True			23.0
+ERR1314138	40.1	658.0	female	Vaginal	Monozygotic	True			22.0
+ERR1314139	29.2	590.0	female	Vaginal	Dizygotic	False			19.0
+ERR1314140	8.2	50.0	female	Vaginal	Dizygotic	False	fd	False	2.0
+ERR1314141	5.2	97.0	male	Cesarean	Dizygotic	False	fd	False	3.0
+ERR1314110	3.2	636.0	male	Vaginal	Monozygotic	True			21.0
+ERR1314078	30.1	569.0	female	Cesarean	Monozygotic	True			19.0
+ERR1314079	30.2	569.0	female	Cesarean	Monozygotic	True			19.0
+ERR1314080	29.1	618.0	female	Vaginal	Dizygotic	False			20.0
+ERR1314081	29.2	618.0	female	Vaginal	Dizygotic	False			20.0
+ERR1314082	30.1	598.0	female	Cesarean	Monozygotic	True			20.0
+ERR1314083	30.2	598.0	female	Cesarean	Monozygotic	True			20.0
+ERR1314084	30.2	690.0	female	Cesarean	Monozygotic	True			23.0
+ERR1314085	35.1	625.0	female	Vaginal	Monozygotic	False			21.0
+ERR1314086	35.2	625.0	female	Vaginal	Monozygotic	False			21.0
+ERR1314087	39.2	167.0	male	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1314088	40.1	503.0	female	Vaginal	Monozygotic	True			17.0
+ERR1314089	40.2	505.0	female	Vaginal	Monozygotic	True			17.0
+ERR1314090	42.1	504.0	male	Cesarean	Monozygotic	True			17.0
+ERR1314091	42.2	504.0	male	Cesarean	Monozygotic	True			17.0
+ERR1314109	3.1	636.0	male	Vaginal	Monozygotic	True			21.0
+ERR1314092	4.1	633.0	female	Cesarean	Dizygotic	True			21.0
+ERR1314094	5.2	614.0	male	Cesarean	Dizygotic	False			20.0
+ERR1314095	39.2	564.0	male	Cesarean	Monozygotic	True			19.0
+ERR1314096	42.2	169.0	male	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1314093	4.2	633.0	male	Cesarean	Dizygotic	True			21.0
+ERR1314279	39.2	415.0	male	Cesarean	Monozygotic	True			14.0
+ERR1314280	44.1	348.0	male	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1314542	5.1	223.0	male	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1314543	5.2	223.0	male	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1314544	8.2	937.0	female	Vaginal	Dizygotic	False			31.0
+ERR1314545	28.1	417.0	female	Cesarean	Monozygotic	False			14.0
+ERR1314546	28.2	417.0	female	Cesarean	Monozygotic	False			14.0
+ERR1314547	44.1	471.0	male	Cesarean	Monozygotic	True			15.0
+ERR1314548	44.2	471.0	male	Cesarean	Monozygotic	True			15.0
+ERR1314555	4.1	273.0	female	Cesarean	Dizygotic	True	fd	True	9.0
+ERR1314556	30.1	56.0	female	Cesarean	Monozygotic	True	bd	False	2.0
+ERR1314557	40.2	173.0	female	Vaginal	Monozygotic	True	fd	True	6.0
+ERR1314621	4.1	302.0	female	Cesarean	Dizygotic	True	fd	True	10.0
+ERR1314622	28.1	479.0	female	Cesarean	Monozygotic	False			16.0
+ERR1314623	28.2	479.0	female	Cesarean	Monozygotic	False			16.0
+ERR1314624	40.1	600.0	female	Vaginal	Monozygotic	True			20.0
+ERR1314625	33.2	462.0	female	Cesarean	Dizygotic	False			15.0
+ERR1314626	42.2	265.0	male	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1314627	48.2	136.0	female	Cesarean	Monozygotic	True	bd	False	4.0
+ERR1314631	33.1	129.0	female	Cesarean	Dizygotic	False	bd	False	4.0
+ERR1314632	46.2	235.0	male	Cesarean	Dizygotic	False	fd	True	8.0
+ERR1314284	39.1	79.0	male	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1314285	39.2	79.0	male	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1314286	3.1	517.0	male	Vaginal	Monozygotic	True			17.0
+ERR1314287	3.2	517.0	male	Vaginal	Monozygotic	True			17.0
+ERR1314288	30.1	388.0	female	Cesarean	Monozygotic	True			13.0
+ERR1314289	30.2	388.0	female	Cesarean	Monozygotic	True			13.0
+ERR1314290	36.1	246.0	male	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1314291	36.2	246.0	male	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1314292	42.1	142.0	male	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1314293	42.2	141.0	male	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1314294	4.2	271.0	male	Cesarean	Dizygotic	True	fd	True	9.0
+ERR1314295	40.1	172.0	female	Vaginal	Monozygotic	True	fd	True	6.0
+ERR1314468	5.1	496.0	male	Cesarean	Dizygotic	False			16.0
+ERR1314469	5.2	495.0	male	Cesarean	Dizygotic	False			16.0
+ERR1314470	44.1	378.0	male	Cesarean	Monozygotic	True	fd	True	12.0
+ERR1314471	44.2	378.0	male	Cesarean	Monozygotic	True	fd	True	12.0
+ERR1314472	4.2	180.0	male	Cesarean	Dizygotic	True	fd	True	6.0
+ERR1314473	8.1	876.0	male	Vaginal	Dizygotic	False			29.0
+ERR1314474	45.1	34.0	male	Cesarean	Dizygotic	False	fd	False	1.0
+ERR1314475	45.2	34.0	male	Cesarean	Dizygotic	False	fd	False	1.0
+ERR1314441	4.1	667.0	female	Cesarean	Dizygotic	True			22.0
+ERR1314442	4.2	666.0	male	Cesarean	Dizygotic	True			22.0
+ERR1314443	27.2	132.0	female	Cesarean	Dizygotic	True	fd	False	4.0
+ERR1314444	28.1	844.0	female	Cesarean	Monozygotic	False			28.0
+ERR1314445	28.2	844.0	female	Cesarean	Monozygotic	False			28.0
+ERR1314446	40.2	202.0	female	Vaginal	Monozygotic	True			7.0
+ERR1314447	40.2	600.0	female	Vaginal	Monozygotic	True			20.0
+ERR1314448	3.2	336.0	male	Vaginal	Monozygotic	True	fd	True	11.0
+ERR1314458	48.2	257.0	female	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1314457	48.1	257.0	female	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1314456	29.2	653.0	female	Vaginal	Dizygotic	False			21.0
+ERR1314451	42.2	661.0	male	Cesarean	Monozygotic	True			22.0
+ERR1314450	42.1	662.0	male	Cesarean	Monozygotic	True			22.0
+ERR1314449	3.2	368.0	male	Vaginal	Monozygotic	True	no milk	True	12.0
+ERR1314455	29.1	652.0	female	Vaginal	Dizygotic	False			21.0
+ERR1314633	27.2	286.0	female	Cesarean	Dizygotic	True	fd	True	9.0
+ERR1314006	43.2	358.0	male	Cesarean	Monozygotic	False	fd	True	12.0
+ERR1313596	43.2	539.0	male	Cesarean	Monozygotic	False			18.0
+ERR1313595	43.1	538.0	male	Cesarean	Monozygotic	False			18.0
+ERR1313594	40.2	562.0	female	Vaginal	Monozygotic	True			18.0
+ERR1313592	39.2	590.0	male	Cesarean	Monozygotic	True			19.0
+ERR1313562	37.2	472.0	female	Cesarean	Monozygotic	True			16.0
+ERR1313563	8.1	138.0	male	Vaginal	Dizygotic	False	fd	False	5.0
+ERR1313564	43.1	417.0	male	Cesarean	Monozygotic	False			14.0
+ERR1313565	43.2	416.0	male	Cesarean	Monozygotic	False			14.0
+ERR1313566	8.1	532.0	male	Vaginal	Dizygotic	False			17.0
+ERR1313567	30.1	716.0	female	Cesarean	Monozygotic	True			24.0
+ERR1313568	30.2	716.0	female	Cesarean	Monozygotic	True			24.0
+ERR1313569	42.1	470.0	male	Cesarean	Monozygotic	True			15.0
+ERR1313570	42.2	469.0	male	Cesarean	Monozygotic	True			15.0
+ERR1313593	40.1	560.0	female	Vaginal	Monozygotic	True			18.0
+ERR1313583	3.2	938.0	male	Vaginal	Monozygotic	True			31.0
+ERR1313584	35.2	653.0	female	Vaginal	Monozygotic	False			21.0
+ERR1313588	28.1	106.0	female	Cesarean	Monozygotic	False	bd	False	3.0
+ERR1313589	29.2	828.0	female	Vaginal	Dizygotic	False			27.0
+ERR1313590	30.1	77.0	female	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1313591	39.1	590.0	male	Cesarean	Monozygotic	True			19.0
+ERR1313561	37.1	472.0	female	Cesarean	Monozygotic	True			16.0
+ERR1313560	30.2	655.0	female	Cesarean	Monozygotic	True			22.0
+ERR1313460	29.2	246.0	female	Vaginal	Dizygotic	False	bd	True	8.0
+ERR1313461	35.1	467.0	female	Vaginal	Monozygotic	False			15.0
+ERR1313462	35.2	467.0	female	Vaginal	Monozygotic	False			15.0
+ERR1313469	32.1	618.0	male	Cesarean	Monozygotic	True			20.0
+ERR1313470	32.2	619.0	male	Cesarean	Monozygotic	True			20.0
+ERR1313471	42.2	378.0	male	Cesarean	Monozygotic	True			12.0
+ERR1313472	43.1	354.0	male	Cesarean	Monozygotic	False	fd	True	12.0
+ERR1313459	28.2	592.0	female	Cesarean	Monozygotic	False			19.0
+ERR1313482	27.2	337.0	female	Cesarean	Dizygotic	True	fd	True	11.0
+ERR1313483	28.2	683.0	female	Cesarean	Monozygotic	False			22.0
+ERR1313484	36.1	177.0	male	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1313485	36.2	177.0	male	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1313458	28.1	593.0	female	Cesarean	Monozygotic	False			19.0
+ERR1313456	8.1	318.0	male	Vaginal	Dizygotic	False	fd	True	10.0
+ERR1313431	6.1	90.0	female	Vaginal	Unknown	False	fd	True	3.0
+ERR1313432	6.2	90.0	female	Vaginal	Unknown	False	fd	False	3.0
+ERR1313433	42.1	377.0	male	Cesarean	Monozygotic	True			12.0
+ERR1313457	30.2	900.0	female	Cesarean	Monozygotic	True			30.0
+ERR1313443	28.1	682.0	female	Cesarean	Monozygotic	False			22.0
+ERR1313444	30.1	654.0	female	Cesarean	Monozygotic	True			21.0
+ERR1313445	29.1	338.0	female	Vaginal	Dizygotic	False	bd	True	11.0
+ERR1313446	29.2	338.0	female	Vaginal	Dizygotic	False	bd	True	11.0
+ERR1313447	39.1	100.0	male	Cesarean	Monozygotic	True	fd	True	3.0
+ERR1313448	39.2	100.0	male	Cesarean	Monozygotic	True	fd	True	3.0
+ERR1313452	8.1	196.0	male	Vaginal	Dizygotic	False	fd	True	6.0
+ERR1313453	43.1	507.0	male	Cesarean	Monozygotic	False			17.0
+ERR1313454	43.2	507.0	male	Cesarean	Monozygotic	False			17.0
+ERR1313455	45.2	145.0	male	Cesarean	Dizygotic	False	fd	False	5.0
+ERR1313493	5.2	244.0	male	Cesarean	Dizygotic	False	fd	True	8.0
+ERR1313528	36.2	453.0	male	Cesarean	Monozygotic	True			15.0
+ERR1313535	28.1	654.0	female	Cesarean	Monozygotic	False			21.0
+ERR1313536	28.2	654.0	female	Cesarean	Monozygotic	False			21.0
+ERR1313537	37.1	442.0	female	Cesarean	Monozygotic	True			15.0
+ERR1313538	37.2	442.0	female	Cesarean	Monozygotic	True			15.0
+ERR1313539	40.1	377.0	female	Vaginal	Monozygotic	True			12.0
+ERR1313540	40.2	378.0	female	Vaginal	Monozygotic	True			12.0
+ERR1313541	45.1	330.0	male	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1313527	36.1	453.0	male	Cesarean	Monozygotic	True			15.0
+ERR1313492	5.1	244.0	male	Cesarean	Dizygotic	False	fd	True	8.0
+ERR1313526	32.2	588.0	male	Cesarean	Monozygotic	True			19.0
+ERR1313524	29.1	248.0	female	Vaginal	Dizygotic	False	bd	True	8.0
+ERR1313494	30.2	777.0	female	Cesarean	Monozygotic	True			26.0
+ERR1313495	35.1	652.0	female	Vaginal	Monozygotic	False			21.0
+ERR1313496	30.1	472.0	female	Cesarean	Monozygotic	True			16.0
+ERR1313497	30.1	839.0	female	Cesarean	Monozygotic	True			28.0
+ERR1313498	30.2	472.0	female	Cesarean	Monozygotic	True			16.0
+ERR1313499	30.2	839.0	female	Cesarean	Monozygotic	True			28.0
+ERR1313500	43.1	569.0	male	Cesarean	Monozygotic	False			19.0
+ERR1313501	8.2	320.0	female	Vaginal	Dizygotic	False	fd	True	11.0
+ERR1313502	30.2	138.0	female	Cesarean	Monozygotic	True	fd	False	5.0
+ERR1313503	43.2	264.0	male	Cesarean	Monozygotic	False	fd	True	9.0
+ERR1313507	29.1	219.0	female	Vaginal	Dizygotic	False	bd	True	7.0
+ERR1313525	32.1	589.0	male	Cesarean	Monozygotic	True			19.0
+ERR1313508	29.2	219.0	female	Vaginal	Dizygotic	False	bd	True	7.0
+ERR1313510	32.2	559.0	male	Cesarean	Monozygotic	True			18.0
+ERR1313511	43.1	295.0	male	Cesarean	Monozygotic	False	fd	True	10.0
+ERR1313512	43.2	295.0	male	Cesarean	Monozygotic	False	fd	True	10.0
+ERR1313513	45.1	270.0	male	Cesarean	Dizygotic	False	fd	False	9.0
+ERR1313523	6.1	425.0	female	Vaginal	Unknown	False			14.0
+ERR1313509	32.1	559.0	male	Cesarean	Monozygotic	True			18.0
+ERR1313696	8.1	290.0	male	Vaginal	Dizygotic	False	fd	True	10.0
+ERR1313697	8.2	290.0	female	Vaginal	Dizygotic	False	fd	True	10.0
+ERR1314744	5.1	377.0	male	Cesarean	Dizygotic	False	fd	True	12.0
+ERR1314745	5.2	377.0	male	Cesarean	Dizygotic	False	fd	True	12.0
+ERR1314746	36.1	37.0	male	Cesarean	Monozygotic	True	bd	False	1.0
+ERR1314747	48.2	169.0	female	Cesarean	Monozygotic	True	bd	True	6.0
+ERR1314751	44.1	320.0	male	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1314752	48.1	229.0	female	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1314753	4.1	486.0	female	Cesarean	Dizygotic	True			16.0
+ERR1314754	4.2	486.0	male	Cesarean	Dizygotic	True			16.0
+ERR1314756	27.2	684.0	female	Cesarean	Dizygotic	True			22.0
+ERR1314757	30.1	636.0	female	Cesarean	Monozygotic	True			21.0
+ERR1314758	44.2	351.0	male	Cesarean	Monozygotic	True	fd	True	12.0
+ERR1314765	29.1	685.0	female	Vaginal	Dizygotic	False			23.0
+ERR1314766	33.1	251.0	female	Cesarean	Dizygotic	False	fd	True	8.0
+ERR1314767	33.2	250.0	female	Cesarean	Dizygotic	False	fd	True	8.0
+ERR1314755	27.1	684.0	female	Cesarean	Dizygotic	True			22.0
+ERR1314714	8.1	573.0	male	Vaginal	Dizygotic	False			19.0
+ERR1314715	8.1	939.0	male	Vaginal	Dizygotic	False			31.0
+ERR1314716	40.1	144.0	female	Vaginal	Monozygotic	True	fd	True	5.0
+ERR1314717	40.2	143.0	female	Vaginal	Monozygotic	True	fd	True	5.0
+ERR1314718	4.1	1005.0	female	Cesarean	Dizygotic	True			33.0
+ERR1314719	4.2	1005.0	male	Cesarean	Dizygotic	True			33.0
+ERR1314720	44.1	502.0	male	Cesarean	Monozygotic	True			16.0
+ERR1314722	29.1	470.0	female	Vaginal	Dizygotic	False			15.0
+ERR1314723	29.2	470.0	female	Vaginal	Dizygotic	False			15.0
+ERR1314724	44.1	564.0	male	Cesarean	Monozygotic	True			19.0
+ERR1314728	8.1	1061.0	male	Vaginal	Dizygotic	False			35.0
+ERR1314729	29.1	532.0	female	Vaginal	Dizygotic	False			17.0
+ERR1314730	29.2	532.0	female	Vaginal	Dizygotic	False			17.0
+ERR1314731	37.1	329.0	female	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1314732	37.2	329.0	female	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1314733	42.1	266.0	male	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1314734	44.2	594.0	male	Cesarean	Monozygotic	True			20.0
+ERR1314721	44.2	502.0	male	Cesarean	Monozygotic	True			16.0
+ERR1314809	27.2	562.0	female	Cesarean	Dizygotic	True			18.0
+ERR1314810	44.1	594.0	male	Cesarean	Monozygotic	True			20.0
+ERR1314814	3.1	370.0	male	Vaginal	Monozygotic	True	no milk	True	12.0
+ERR1313992	33.1	154.0	female	Cesarean	Dizygotic	False	fd	False	5.0
+ERR1313993	45.2	302.0	male	Cesarean	Dizygotic	False	fd	True	10.0
+ERR1313994	47.1	270.0	male	Vaginal	Monozygotic	True			9.0
+ERR1313995	47.2	271.0	male	Cesarean_emergency	Monozygotic	True			9.0
+ERR1314002	5.2	460.0	male	Cesarean	Dizygotic	False			15.0
+ERR1314003	29.1	281.0	female	Vaginal	Dizygotic	False	bd	True	9.0
+ERR1314004	29.2	281.0	female	Vaginal	Dizygotic	False	bd	True	9.0
+ERR1314005	42.2	16.0	male	Cesarean	Monozygotic	True	fd	False	1.0
+ERR1313991	6.1	400.0	female	Vaginal	Unknown	False			13.0
+ERR1314804	5.1	316.0	male	Cesarean	Dizygotic	False	fd	True	10.0
+ERR1314774	8.2	879.0	female	Vaginal	Dizygotic	False			29.0
+ERR1314775	27.2	44.0	female	Cesarean	Dizygotic	True	fd	False	1.0
+ERR1314776	46.1	52.0	male	Cesarean	Dizygotic	False	fd	False	2.0
+ERR1314780	6.2	589.0	female	Vaginal	Unknown	False			19.0
+ERR1314781	8.2	573.0	female	Vaginal	Dizygotic	False			19.0
+ERR1314782	27.2	440.0	female	Cesarean	Dizygotic	True			14.0
+ERR1314783	32.1	386.0	male	Cesarean	Monozygotic	True			13.0
+ERR1314784	32.2	385.0	male	Cesarean	Monozygotic	True			13.0
+ERR1314785	37.1	209.0	female	Cesarean	Monozygotic	True	no milk	True	7.0
+ERR1314786	37.1	574.0	female	Cesarean	Monozygotic	True			19.0
+ERR1314787	37.2	574.0	female	Cesarean	Monozygotic	True			19.0
+ERR1314805	44.2	565.0	male	Cesarean	Monozygotic	True			19.0
+ERR1314788	43.1	121.0	male	Cesarean	Monozygotic	False	fd	False	4.0
+ERR1314792	27.2	106.0	female	Cesarean	Dizygotic	True	fd	False	3.0
+ERR1314796	8.1	635.0	male	Vaginal	Dizygotic	False			21.0
+ERR1314797	44.1	534.0	male	Cesarean	Monozygotic	True			18.0
+ERR1314798	44.2	533.0	male	Cesarean	Monozygotic	True			18.0
+ERR1314802	4.1	1066.0	female	Cesarean	Dizygotic	True			35.0
+ERR1314803	4.2	1066.0	male	Cesarean	Dizygotic	True			35.0
+ERR1313732	39.1	11.0	male	Cesarean	Monozygotic	True	fd	True	0.0
+ERR1313733	39.2	11.0	male	Cesarean	Monozygotic	True	fd	True	0.0
+ERR1313734	36.1	485.0	male	Cesarean	Monozygotic	True			16.0
+ERR1313735	36.2	484.0	male	Cesarean	Monozygotic	True			16.0
+ERR1313736	8.2	473.0	female	Vaginal	Dizygotic	False			16.0
+ERR1313737	43.1	386.0	male	Cesarean	Monozygotic	False			13.0
+ERR1313738	43.2	386.0	male	Cesarean	Monozygotic	False			13.0
+ERR1313739	6.1	519.0	female	Vaginal	Unknown	False			17.0
+ERR1313740	6.2	519.0	female	Vaginal	Unknown	False			17.0
+ERR1313741	35.1	562.0	female	Vaginal	Monozygotic	False			18.0
+ERR1313742	35.2	562.0	female	Vaginal	Monozygotic	False			18.0
+ERR1313743	40.1	439.0	female	Vaginal	Monozygotic	True			14.0
+ERR1313744	40.2	441.0	female	Vaginal	Monozygotic	True			14.0
+ERR1313745	42.1	441.0	male	Cesarean	Monozygotic	True			14.0
+ERR1313731	6.2	426.0	female	Vaginal	Unknown	False			14.0
+ERR1313746	42.2	441.0	male	Cesarean	Monozygotic	True			14.0
+ERR1313753	40.1	469.0	female	Vaginal	Monozygotic	True			15.0
+ERR1313754	40.2	470.0	female	Vaginal	Monozygotic	True			15.0
+ERR1313761	8.2	231.0	female	Vaginal	Dizygotic	False	fd	True	8.0
+ERR1313762	33.1	365.0	female	Cesarean	Dizygotic	False	fd	True	12.0
+ERR1313730	5.2	62.0	male	Cesarean	Dizygotic	False	fd	True	2.0
+ERR1313698	28.1	502.0	female	Cesarean	Monozygotic	False			16.0
+ERR1313699	28.2	501.0	female	Cesarean	Monozygotic	False			16.0
+ERR1313700	43.2	203.0	male	Cesarean	Monozygotic	False	fd	True	7.0
+ERR1313701	30.1	503.0	female	Cesarean	Monozygotic	True			17.0
+ERR1313702	30.2	503.0	female	Cesarean	Monozygotic	True			17.0
+ERR1313703	28.1	564.0	female	Cesarean	Monozygotic	False			19.0
+ERR1313704	28.2	563.0	female	Cesarean	Monozygotic	False			18.0
+ERR1313705	30.1	535.0	female	Cesarean	Monozygotic	True			18.0
+ERR1313706	30.2	535.0	female	Cesarean	Monozygotic	True			18.0
+ERR1313707	35.1	410.0	female	Vaginal	Monozygotic	False			13.0
+ERR1313708	35.2	410.0	female	Vaginal	Monozygotic	False			13.0
+ERR1313709	45.2	606.0	male	Cesarean	Dizygotic	False			20.0
+ERR1313729	5.1	62.0	male	Cesarean	Dizygotic	False	fd	True	2.0
+ERR1313722	27.2	250.0	female	Cesarean	Dizygotic	True	fd	True	8.0
+ERR1313723	35.1	440.0	female	Vaginal	Monozygotic	False			14.0
+ERR1313724	35.2	440.0	female	Vaginal	Monozygotic	False			14.0
+ERR1313725	44.1	282.0	male	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1313766	29.1	829.0	female	Vaginal	Dizygotic	False			27.0
+ERR1313767	32.1	437.0	male	Cesarean	Monozygotic	True			14.0
+ERR1313768	32.2	437.0	male	Cesarean	Monozygotic	True			14.0
+ERR1313769	32.1	468.0	male	Cesarean	Monozygotic	True			15.0
+ERR1313770	32.2	468.0	male	Cesarean	Monozygotic	True			15.0
+ERR1313771	35.1	349.0	female	Vaginal	Monozygotic	False	fd	True	11.0
+ERR1313772	35.2	349.0	female	Vaginal	Monozygotic	False			11.0
+ERR1313773	37.1	292.0	female	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1313774	37.2	292.0	female	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1313775	44.2	190.0	male	Cesarean	Monozygotic	True			6.0
+ERR1313832	43.1	235.0	male	Cesarean	Monozygotic	False	fd	True	8.0
+ERR1313792	39.2	652.0	male	Cesarean	Monozygotic	True			21.0
+ERR1313791	39.2	286.0	male	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1314007	45.2	334.0	male	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1313790	39.1	652.0	male	Cesarean	Monozygotic	True			21.0
+ERR1313788	32.1	498.0	male	Cesarean	Monozygotic	True			16.0
+ERR1313789	32.2	499.0	male	Cesarean	Monozygotic	True			16.0
+ERR1314634	44.2	319.0	male	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1315396	32.1	363.0	male	Cesarean	Monozygotic	True	no milk	True	12.0
+ERR1315397	32.2	364.0	male	Cesarean	Monozygotic	True	no milk	True	12.0
+ERR1315398	33.1	320.0	female	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1315399	35.1	243.0	female	Vaginal	Monozygotic	False	bd	True	8.0
+ERR1315400	35.2	228.0	female	Vaginal	Monozygotic	False			7.0
+ERR1315408	30.2	97.0	female	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1315409	33.2	47.0	female	Cesarean	Dizygotic	False	fd	False	2.0
+ERR1315413	4.1	710.0	female	Cesarean	Dizygotic	True			23.0
+ERR1315414	4.2	710.0	male	Cesarean	Dizygotic	True			23.0
+ERR1315415	4.1	739.0	female	Cesarean	Dizygotic	True			24.0
+ERR1315416	4.2	740.0	male	Cesarean	Dizygotic	True			24.0
+ERR1315407	44.1	116.0	male	Cesarean	Monozygotic	True	bd	True	4.0
+ERR1315423	4.1	772.0	female	Cesarean	Dizygotic	True			25.0
+ERR1315425	28.2	218.0	female	Cesarean	Monozygotic	False	fd	True	7.0
+ERR1315460	46.2	33.0	male	Cesarean	Dizygotic	False	fd	False	1.0
+ERR1315467	3.1	196.0	male	Vaginal	Monozygotic	True	no milk	True	6.0
+ERR1315468	3.1	560.0	male	Vaginal	Monozygotic	True			18.0
+ERR1315469	3.2	196.0	male	Vaginal	Monozygotic	True	no milk	True	6.0
+ERR1315470	3.2	560.0	male	Vaginal	Monozygotic	True			18.0
+ERR1315471	4.1	953.0	female	Cesarean	Dizygotic	True			31.0
+ERR1315472	4.2	953.0	male	Cesarean	Dizygotic	True			31.0
+ERR1315473	39.2	153.0	male	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1315459	46.1	33.0	male	Cesarean	Dizygotic	False	fd	False	1.0
+ERR1315474	46.2	62.0	male	Cesarean	Dizygotic	False	fd	False	2.0
+ERR1315476	47.2	409.0	male	Cesarean_emergency	Monozygotic	True			13.0
+ERR1315489	36.1	260.0	male	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1315475	47.1	409.0	male	Vaginal	Monozygotic	True			13.0
+ERR1315424	4.2	772.0	male	Cesarean	Dizygotic	True			25.0
+ERR1315426	46.1	278.0	male	Cesarean	Dizygotic	False			9.0
+ERR1315427	46.2	278.0	male	Cesarean	Dizygotic	False			9.0
+ERR1315434	4.1	101.0	female	Cesarean	Dizygotic	True	fd	False	3.0
+ERR1315435	8.1	430.0	male	Vaginal	Dizygotic	False			14.0
+ERR1315436	8.2	430.0	female	Vaginal	Dizygotic	False			14.0
+ERR1315437	28.1	277.0	female	Cesarean	Monozygotic	False	fd	True	9.0
+ERR1315438	28.2	277.0	female	Cesarean	Monozygotic	False	fd	True	9.0
+ERR1315454	4.2	131.0	male	Cesarean	Dizygotic	True	fd	True	4.0
+ERR1315455	47.1	348.0	male	Vaginal	Monozygotic	True	fd	True	11.0
+ERR1315248	42.1	92.0	male	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1315249	42.2	92.0	male	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1315247	28.2	367.0	female	Cesarean	Monozygotic	False	fd	True	12.0
+ERR1315246	28.1	368.0	female	Cesarean	Monozygotic	False	fd	True	12.0
+ERR1315244	4.1	557.0	female	Cesarean	Dizygotic	True			18.0
+ERR1315217	35.2	62.0	female	Vaginal	Monozygotic	False	bd	False	2.0
+ERR1315218	37.2	737.0	female	Cesarean	Monozygotic	True			24.0
+ERR1315219	45.1	625.0	male	Cesarean	Dizygotic	False			21.0
+ERR1315220	45.2	625.0	male	Cesarean	Dizygotic	False			21.0
+ERR1315245	4.2	557.0	male	Cesarean	Dizygotic	True			18.0
+ERR1315230	8.1	401.0	male	Vaginal	Dizygotic	False			13.0
+ERR1315231	8.2	401.0	female	Vaginal	Dizygotic	False			13.0
+ERR1315232	35.2	94.0	female	Vaginal	Monozygotic	False	bd	False	3.0
+ERR1315236	4.2	100.0	male	Cesarean	Dizygotic	True	fd	True	3.0
+ERR1315240	47.2	347.0	male	Cesarean_emergency	Monozygotic	True	fd	True	11.0
+ERR1315493	47.1	472.0	male	Vaginal	Monozygotic	True			16.0
+ERR1315668	4.2	196.0	male	Cesarean	Dizygotic	True	fd	True	6.0
+ERR1315669	8.2	191.0	female	Vaginal	Dizygotic	False	fd	True	6.0
+ERR1315670	32.2	34.0	male	Cesarean	Monozygotic	True	fd	False	1.0
+ERR1315674	8.1	985.0	male	Vaginal	Dizygotic	False			32.0
+ERR1315675	8.2	985.0	female	Vaginal	Dizygotic	False			32.0
+ERR1315676	27.2	485.0	female	Cesarean	Dizygotic	True			16.0
+ERR1315677	44.1	151.0	male	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1315678	44.2	151.0	male	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1315679	36.2	324.0	male	Cesarean	Monozygotic	True	no milk	True	11.0
+ERR1315684	32.2	126.0	male	Cesarean	Monozygotic	True	fd	False	4.0
+ERR1315685	33.1	114.0	female	Cesarean	Dizygotic	False	fd	False	4.0
+ERR1315686	35.2	36.0	female	Vaginal	Monozygotic	False	bd	False	1.0
+ERR1315690	6.2	573.0	female	Vaginal	Unknown	False			19.0
+ERR1315691	29.1	394.0	female	Vaginal	Dizygotic	False			13.0
+ERR1315692	29.2	394.0	female	Vaginal	Dizygotic	False			13.0
+ERR1315693	27.1	821.0	female	Cesarean	Dizygotic	True			27.0
+ERR1315694	27.2	821.0	female	Cesarean	Dizygotic	True			27.0
+ERR1315680	45.2	537.0	male	Cesarean	Dizygotic	False			18.0
+ERR1315695	45.2	477.0	male	Cesarean	Dizygotic	False			16.0
+ERR1315661	47.1	323.0	male	Vaginal	Monozygotic	True	fd	True	11.0
+ERR1315631	36.1	416.0	male	Cesarean	Monozygotic	True			14.0
+ERR1315632	36.2	415.0	male	Cesarean	Monozygotic	True			14.0
+ERR1315633	30.1	252.0	female	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1315634	30.2	252.0	female	Cesarean	Monozygotic	True	bd	True	8.0
+ERR1315635	40.2	126.0	female	Vaginal	Monozygotic	True	fd	False	4.0
+ERR1315636	4.1	682.0	female	Cesarean	Dizygotic	True			22.0
+ERR1315637	4.2	682.0	male	Cesarean	Dizygotic	True			22.0
+ERR1315638	28.2	159.0	female	Cesarean	Monozygotic	False	bd	True	5.0
+ERR1315639	45.1	232.0	male	Cesarean	Dizygotic	False	fd	False	8.0
+ERR1315640	45.2	232.0	male	Cesarean	Dizygotic	False	fd	False	8.0
+ERR1315641	30.1	194.0	female	Cesarean	Monozygotic	True	fd	False	6.0
+ERR1315645	33.1	204.0	female	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1315653	6.1	116.0	female	Vaginal	Unknown	False	fd	False	4.0
+ERR1315654	6.2	116.0	female	Vaginal	Unknown	False	fd	False	4.0
+ERR1315655	8.1	101.0	male	Vaginal	Dizygotic	False	fd	True	3.0
+ERR1315656	8.2	101.0	female	Vaginal	Dizygotic	False	fd	False	3.0
+ERR1315657	33.1	601.0	female	Cesarean	Dizygotic	False			20.0
+ERR1315658	33.2	601.0	female	Cesarean	Dizygotic	False			20.0
+ERR1315659	36.1	141.0	male	Cesarean	Monozygotic	True			5.0
+ERR1315660	36.2	141.0	male	Cesarean	Monozygotic	True			5.0
+ERR1315646	33.2	570.0	female	Cesarean	Dizygotic	False			19.0
+ERR1315696	36.1	325.0	male	Cesarean	Monozygotic	True	no milk	True	11.0
+ERR1331873	12.2	99.0	female	Vaginal	Monozygotic	False	fd	False	3.0
+ERR1331877	8.1	46.0	male	Vaginal	Dizygotic	False	fd	False	2.0
+ERR1331878	43.2	81.0	male	Cesarean	Monozygotic	False	fd	False	3.0
+ERR1315697	30.2	163.0	female	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1315528	42.2	63.0	male	Cesarean	Monozygotic	True	fd	False	2.0
+ERR1315529	32.1	336.0	male	Cesarean	Monozygotic	True	no milk	True	11.0
+ERR1315530	32.2	336.0	male	Cesarean	Monozygotic	True	no milk	True	11.0
+ERR1315531	33.1	292.0	female	Cesarean	Dizygotic	False	fd	True	10.0
+ERR1315532	35.1	215.0	female	Vaginal	Monozygotic	False	bd	True	7.0
+ERR1315533	35.2	199.0	female	Vaginal	Monozygotic	False			7.0
+ERR1315534	47.1	381.0	male	Vaginal	Monozygotic	True			13.0
+ERR1315535	33.2	322.0	female	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1315536	40.1	124.0	female	Vaginal	Monozygotic	True	fd	False	4.0
+ERR1315537	32.1	32.0	male	Cesarean	Monozygotic	True	fd	False	1.0
+ERR1315538	36.2	260.0	male	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1315527	40.2	64.0	female	Vaginal	Monozygotic	True	fd	False	2.0
+ERR1315545	45.1	139.0	male	Cesarean	Dizygotic	False	fd	False	5.0
+ERR1315546	44.1	179.0	male	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1315547	36.1	353.0	male	Cesarean	Monozygotic	True	no milk	True	12.0
+ERR1315548	36.2	353.0	male	Cesarean	Monozygotic	True	no milk	True	12.0
+ERR1315555	30.1	160.0	female	Cesarean	Monozygotic	True	fd	False	5.0
+ERR1315556	4.1	409.0	female	Cesarean	Dizygotic	True			13.0
+ERR1315557	4.2	408.0	male	Cesarean	Dizygotic	True	no milk	True	13.0
+ERR1315558	32.1	217.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1315526	40.1	63.0	female	Vaginal	Monozygotic	True	fd	False	2.0
+ERR1315524	32.1	304.0	male	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1315494	47.2	472.0	male	Cesarean_emergency	Monozygotic	True			16.0
+ERR1315498	33.1	48.0	female	Cesarean	Dizygotic	False	fd	False	2.0
+ERR1315499	8.2	676.0	female	Vaginal	Dizygotic	False			22.0
+ERR1315500	45.1	565.0	male	Cesarean	Dizygotic	False			19.0
+ERR1315501	45.2	565.0	male	Cesarean	Dizygotic	False			19.0
+ERR1315502	28.1	186.0	female	Cesarean	Monozygotic	False	bd	True	6.0
+ERR1315503	28.2	187.0	female	Cesarean	Monozygotic	False	bd	True	6.0
+ERR1315525	32.2	304.0	male	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1315510	30.2	190.0	female	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1315511	37.1	372.0	female	Cesarean	Monozygotic	True			12.0
+ERR1315512	37.2	372.0	female	Cesarean	Monozygotic	True	fd	True	12.0
+ERR1315522	5.1	420.0	male	Cesarean	Dizygotic	False			14.0
+ERR1315523	5.2	419.0	male	Cesarean	Dizygotic	False			14.0
+ERR1315559	32.2	216.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1315560	32.1	245.0	male	Cesarean	Monozygotic	True	bd	True	8.0
+ERR1315561	32.2	244.0	male	Cesarean	Monozygotic	True	bd	True	8.0
+ERR1315598	4.1	589.0	female	Cesarean	Dizygotic	True			19.0
+ERR1315599	4.2	589.0	male	Cesarean	Dizygotic	True			19.0
+ERR1315600	3.1	594.0	male	Vaginal	Monozygotic	True			20.0
+ERR1315601	47.1	76.0	male	Vaginal	Monozygotic	True	fd	True	2.0
+ERR1315602	47.2	77.0	male	Cesarean_emergency	Monozygotic	True	fd	True	3.0
+ERR1315606	6.1	267.0	female	Vaginal	Unknown	False	fd	True	9.0
+ERR1315607	6.2	267.0	female	Vaginal	Unknown	False	fd	True	9.0
+ERR1315614	3.2	1051.0	male	Vaginal	Monozygotic	True			35.0
+ERR1315615	8.1	342.0	male	Vaginal	Dizygotic	False	fd	True	11.0
+ERR1315616	8.2	342.0	female	Vaginal	Dizygotic	False	fd	True	11.0
+ERR1315617	47.1	199.0	male	Vaginal	Monozygotic	True	fd	True	7.0
+ERR1315618	47.2	199.0	male	Cesarean_emergency	Monozygotic	True	fd	True	7.0
+ERR1315562	33.1	567.0	female	Cesarean	Dizygotic	False			19.0
+ERR1315563	33.2	201.0	female	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1315570	32.1	276.0	male	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1315571	32.2	276.0	male	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1315572	47.2	321.0	male	Cesarean_emergency	Monozygotic	True	fd	True	11.0
+ERR1315591	47.2	381.0	male	Cesarean_emergency	Monozygotic	True			13.0
+ERR1315590	40.2	96.0	female	Vaginal	Monozygotic	True	fd	True	3.0
+ERR1315589	40.1	95.0	female	Vaginal	Monozygotic	True	fd	False	3.0
+ERR1315588	37.2	526.0	female	Cesarean	Monozygotic	True			17.0
+ERR1315587	37.1	526.0	female	Cesarean	Monozygotic	True			17.0
+ERR1315586	42.1	65.0	male	Cesarean	Monozygotic	True	fd	False	2.0
+ERR1315584	8.2	494.0	female	Vaginal	Dizygotic	False			16.0
+ERR1315583	8.1	493.0	male	Vaginal	Dizygotic	False			16.0
+ERR1315582	6.2	144.0	female	Vaginal	Unknown	False	fd	True	5.0
+ERR1315581	6.1	143.0	female	Vaginal	Unknown	False	fd	True	5.0
+ERR1315580	4.2	528.0	male	Cesarean	Dizygotic	True			17.0
+ERR1315579	4.1	528.0	female	Cesarean	Dizygotic	True			17.0
+ERR1315585	28.1	340.0	female	Cesarean	Monozygotic	False	fd	True	11.0
+ERR1315210	4.2	374.0	male	Cesarean	Dizygotic	True	no milk	True	12.0
+ERR1311544	13.2	962.0	female	Cesarean	Monozygotic	False			32.0
+ERR1311545	13.2	998.0	female	Cesarean	Monozygotic	False			33.0
+ERR1311546	14.1	499.0	male	Vaginal	Dizygotic	True			16.0
+ERR1311547	14.1	923.0	male	Vaginal	Dizygotic	True			30.0
+ERR1311548	14.1	96.0	male	Vaginal	Dizygotic	True	fd	False	3.0
+ERR1311549	14.1	985.0	male	Vaginal	Dizygotic	True			32.0
+ERR1311550	14.2	499.0	female	Vaginal	Dizygotic	True			16.0
+ERR1314815	35.1	786.0	female	Vaginal	Monozygotic	False			26.0
+ERR1314816	48.1	170.0	female	Cesarean	Monozygotic	True	bd	True	6.0
+ERR1311543	13.2	633.0	female	Cesarean	Monozygotic	False			21.0
+ERR1314824	48.2	201.0	female	Cesarean	Monozygotic	True	bd	True	7.0
+ERR1314825	43.1	335.0	male	Cesarean	Monozygotic	False	fd	True	11.0
+ERR1314826	43.2	335.0	male	Cesarean	Monozygotic	False	fd	True	11.0
+ERR1314827	48.2	230.0	female	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1314828	3.1	95.0	male	Vaginal	Monozygotic	True	fd	False	3.0
+ERR1314832	3.1	857.0	male	Vaginal	Monozygotic	True			28.0
+ERR1314833	3.2	857.0	male	Vaginal	Monozygotic	True			28.0
+ERR1314834	45.1	371.0	male	Cesarean	Dizygotic	False	fd	False	12.0
+ERR1314835	45.2	371.0	male	Cesarean	Dizygotic	False	fd	False	12.0
+ERR1314836	48.1	291.0	female	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1314837	48.2	291.0	female	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1314823	44.2	292.0	male	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1311542	13.2	598.0	female	Cesarean	Monozygotic	False			20.0
+ERR1311540	13.2	496.0	female	Cesarean	Monozygotic	False			16.0
+ERR1311513	10.1	463.0	female	Cesarean	Dizygotic	True			15.0
+ERR1311514	10.1	531.0	female	Cesarean	Dizygotic	True			17.0
+ERR1311515	10.1	930.0	female	Cesarean	Dizygotic	True			31.0
+ERR1311516	10.2	101.0	male	Cesarean	Dizygotic	True	bd	False	3.0
+ERR1311517	10.1	985.0	female	Cesarean	Dizygotic	True			32.0
+ERR1311518	10.2	930.0	male	Cesarean	Dizygotic	True			31.0
+ERR1311519	12.1	224.0	female	Vaginal	Monozygotic	False	fd	True	7.0
+ERR1311520	10.2	984.0	male	Cesarean	Dizygotic	True			32.0
+ERR1311521	12.1	887.0	female	Vaginal	Monozygotic	False			29.0
+ERR1311522	12.1	969.0	female	Vaginal	Monozygotic	False			32.0
+ERR1311523	12.2	161.0	female	Vaginal	Monozygotic	False	fd	True	5.0
+ERR1311541	13.2	570.0	female	Cesarean	Monozygotic	False			19.0
+ERR1311524	12.2	462.0	female	Vaginal	Monozygotic	False			15.0
+ERR1311526	12.2	495.0	female	Vaginal	Monozygotic	False			16.0
+ERR1311527	12.2	882.0	female	Vaginal	Monozygotic	False			29.0
+ERR1311528	12.2	577.0	female	Vaginal	Monozygotic	False			19.0
+ERR1311529	12.2	969.0	female	Vaginal	Monozygotic	False			32.0
+ERR1311530	13.1	146.0	female	Cesarean	Monozygotic	False	fd	False	5.0
+ERR1311531	13.1	442.0	female	Cesarean	Monozygotic	False			15.0
+ERR1311532	13.1	496.0	female	Cesarean	Monozygotic	False			16.0
+ERR1311533	13.1	536.0	female	Cesarean	Monozygotic	False			18.0
+ERR1311534	13.1	598.0	female	Cesarean	Monozygotic	False			20.0
+ERR1311535	13.1	633.0	female	Cesarean	Monozygotic	False			21.0
+ERR1311536	13.1	933.0	female	Cesarean	Monozygotic	False			31.0
+ERR1311537	13.2	143.0	female	Cesarean	Monozygotic	False	fd	False	5.0
+ERR1311538	13.2	484.0	female	Cesarean	Monozygotic	False			16.0
+ERR1311539	13.2	536.0	female	Cesarean	Monozygotic	False			18.0
+ERR1311525	12.2	224.0	female	Vaginal	Monozygotic	False	fd	True	7.0
+ERR1314880	47.2	554.0	male	Cesarean_emergency	Monozygotic	True			18.0
+ERR1314881	27.2	594.0	female	Cesarean	Dizygotic	True			20.0
+ERR1314882	35.2	786.0	female	Vaginal	Monozygotic	False			26.0
+ERR1314883	44.1	628.0	male	Cesarean	Monozygotic	True			21.0
+ERR1314884	4.1	429.0	female	Cesarean	Dizygotic	True			14.0
+ERR1314885	4.2	429.0	male	Cesarean	Dizygotic	True			14.0
+ERR1314886	44.1	292.0	male	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1314887	48.1	202.0	female	Cesarean	Monozygotic	True	bd	True	7.0
+ERR1314888	3.2	96.0	male	Vaginal	Monozygotic	True	fd	False	3.0
+ERR1314892	5.1	135.0	male	Cesarean	Dizygotic	False	fd	False	4.0
+ERR1314893	5.2	135.0	male	Cesarean	Dizygotic	False	fd	False	4.0
+ERR1314894	45.1	403.0	male	Cesarean	Dizygotic	False			13.0
+ERR1314895	4.1	246.0	female	Cesarean	Dizygotic	True	fd	True	8.0
+ERR1314896	28.1	787.0	female	Cesarean	Monozygotic	False			26.0
+ERR1314897	28.2	788.0	female	Cesarean	Monozygotic	False			26.0
+ERR1314898	39.2	542.0	male	Cesarean	Monozygotic	True			18.0
+ERR1314902	29.1	444.0	female	Vaginal	Dizygotic	False			15.0
+ERR1314903	29.2	444.0	female	Vaginal	Dizygotic	False			15.0
+ERR1314904	46.1	116.0	male	Cesarean	Dizygotic	False	fd	True	4.0
+ERR1314905	46.2	116.0	male	Cesarean	Dizygotic	False	fd	True	4.0
+ERR1314844	3.2	156.0	male	Vaginal	Monozygotic	True	fd	True	5.0
+ERR1314845	4.2	244.0	male	Cesarean	Dizygotic	True	fd	True	8.0
+ERR1314846	6.1	589.0	female	Vaginal	Unknown	False			19.0
+ERR1314847	47.1	66.0	male	Vaginal	Monozygotic	True	fd	True	2.0
+ERR1314848	47.2	66.0	male	Cesarean_emergency	Monozygotic	True	fd	True	2.0
+ERR1314849	30.1	423.0	female	Cesarean	Monozygotic	True			14.0
+ERR1314850	33.1	405.0	female	Cesarean	Dizygotic	False	no milk	True	13.0
+ERR1314851	33.2	405.0	female	Cesarean	Dizygotic	False	no milk	True	13.0
+ERR1314852	37.1	270.0	female	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1314853	37.2	270.0	female	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1314860	3.1	309.0	male	Vaginal	Monozygotic	True	fd	True	10.0
+ERR1314861	3.2	309.0	male	Vaginal	Monozygotic	True			10.0
+ERR1314862	5.2	317.0	male	Cesarean	Dizygotic	False	fd	True	10.0
+ERR1314863	6.1	682.0	female	Vaginal	Unknown	False			22.0
+ERR1314864	6.2	681.0	female	Vaginal	Unknown	False			22.0
+ERR1314865	27.2	533.0	female	Cesarean	Dizygotic	True			18.0
+ERR1314866	42.1	603.0	male	Cesarean	Monozygotic	True			20.0
+ERR1314867	42.2	604.0	male	Cesarean	Monozygotic	True			20.0
+ERR1314868	44.1	199.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1314869	47.1	524.0	male	Vaginal	Monozygotic	True			17.0
+ERR1314870	47.2	524.0	male	Cesarean_emergency	Monozygotic	True			17.0
+ERR1314639	3.1	489.0	male	Vaginal	Monozygotic	True			16.0
+ERR1314640	3.2	123.0	male	Vaginal	Monozygotic	True	fd	True	4.0
+ERR1314641	3.2	489.0	male	Vaginal	Monozygotic	True			16.0
+ERR1314642	42.1	417.0	male	Cesarean	Monozygotic	True			14.0
+ERR1314643	42.2	417.0	male	Cesarean	Monozygotic	True			14.0
+ERR1314644	4.1	182.0	female	Cesarean	Dizygotic	True	fd	True	6.0
+ERR1314645	33.1	647.0	female	Cesarean	Dizygotic	False			21.0
+ERR1314646	33.2	647.0	female	Cesarean	Dizygotic	False			21.0
+ERR1314647	44.1	411.0	male	Cesarean	Monozygotic	True			14.0
+ERR1314648	44.2	410.0	male	Cesarean	Monozygotic	True			13.0
+ERR1314649	48.1	320.0	female	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1314650	48.2	320.0	female	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1315113	6.2	230.0	female	Vaginal	Unknown	False	fd	True	8.0
+ERR1315114	33.2	715.0	female	Cesarean	Dizygotic	False			23.0
+ERR1315118	3.1	985.0	male	Vaginal	Monozygotic	True			32.0
+ERR1315119	48.2	52.0	female	Cesarean	Monozygotic	True	bd	False	2.0
+ERR1315120	3.2	648.0	male	Vaginal	Monozygotic	True			21.0
+ERR1315121	44.2	234.0	male	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1315122	28.1	215.0	female	Cesarean	Monozygotic	False	fd	True	7.0
+ERR1315123	29.1	571.0	female	Vaginal	Dizygotic	False			19.0
+ERR1315124	37.1	734.0	female	Cesarean	Monozygotic	True			24.0
+ERR1315128	37.1	428.0	female	Cesarean	Monozygotic	True			14.0
+ERR1315129	37.2	428.0	female	Cesarean	Monozygotic	True			14.0
+ERR1315130	4.1	129.0	female	Cesarean	Dizygotic	True	fd	False	4.0
+ERR1315131	28.1	305.0	female	Cesarean	Monozygotic	False	fd	True	10.0
+ERR1315132	28.2	305.0	female	Cesarean	Monozygotic	False	fd	True	10.0
+ERR1315133	5.1	170.0	male	Cesarean	Dizygotic	False	fd	True	6.0
+ERR1315134	5.1	535.0	male	Cesarean	Dizygotic	False			18.0
+ERR1315135	5.2	535.0	male	Cesarean	Dizygotic	False			18.0
+ERR1315142	28.1	396.0	female	Cesarean	Monozygotic	False			13.0
+ERR1315108	44.2	81.0	male	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1315080	3.2	679.0	male	Vaginal	Monozygotic	True			22.0
+ERR1315081	33.1	439.0	female	Cesarean	Dizygotic	False			14.0
+ERR1315082	33.2	439.0	female	Cesarean	Dizygotic	False			14.0
+ERR1315089	3.1	344.0	male	Vaginal	Monozygotic	True	fd	True	11.0
+ERR1315090	6.2	716.0	female	Vaginal	Unknown	False			24.0
+ERR1315109	45.2	72.0	male	Cesarean	Dizygotic	False	fd	False	2.0
+ERR1315091	33.2	105.0	female	Cesarean	Dizygotic	False	fd	False	3.0
+ERR1315095	3.1	1106.0	male	Vaginal	Monozygotic	True			36.0
+ERR1315096	3.2	435.0	male	Vaginal	Monozygotic	True			14.0
+ERR1315097	35.2	150.0	female	Vaginal	Monozygotic	False	bd	False	5.0
+ERR1315098	27.1	719.0	female	Cesarean	Dizygotic	True			24.0
+ERR1315099	27.2	719.0	female	Cesarean	Dizygotic	True			24.0
+ERR1315106	33.2	288.0	female	Cesarean	Dizygotic	False	fd	True	9.0
+ERR1315107	4.1	219.0	female	Cesarean	Dizygotic	True	fd	True	7.0
+ERR1315076	6.2	654.0	female	Vaginal	Unknown	False			21.0
+ERR1315143	28.2	396.0	female	Cesarean	Monozygotic	False			13.0
+ERR1315145	44.2	113.0	male	Cesarean	Monozygotic	True	bd	True	4.0
+ERR1315183	37.1	156.0	female	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1315184	42.1	122.0	male	Cesarean	Monozygotic	True	fd	False	4.0
+ERR1315185	42.2	122.0	male	Cesarean	Monozygotic	True	fd	False	4.0
+ERR1315186	45.1	74.0	male	Cesarean	Dizygotic	False	fd	False	2.0
+ERR1315187	47.2	439.0	male	Cesarean_emergency	Monozygotic	True			14.0
+ERR1315188	3.2	256.0	male	Vaginal	Monozygotic	True	fd	True	8.0
+ERR1315189	3.1	286.0	male	Vaginal	Monozygotic	True			9.0
+ERR1315190	3.2	286.0	male	Vaginal	Monozygotic	True	fd	True	9.0
+ERR1315191	6.1	657.0	female	Vaginal	Unknown	False			22.0
+ERR1315192	30.1	96.0	female	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1315202	3.1	1048.0	male	Vaginal	Monozygotic	True			34.0
+ERR1315203	4.1	344.0	female	Cesarean	Dizygotic	True	fd	True	11.0
+ERR1315204	4.2	344.0	male	Cesarean	Dizygotic	True	fd	True	11.0
+ERR1315205	33.2	77.0	female	Cesarean	Dizygotic	False	fd	False	3.0
+ERR1315209	4.1	373.0	female	Cesarean	Dizygotic	True	fd	True	12.0
+ERR1315144	6.1	231.0	female	Vaginal	Unknown	False	fd	True	8.0
+ERR1315176	35.2	181.0	female	Vaginal	Monozygotic	False	bd	True	6.0
+ERR1315146	30.2	430.0	female	Cesarean	Monozygotic	True			14.0
+ERR1315147	45.2	134.0	male	Cesarean	Dizygotic	False	fd	False	4.0
+ERR1315148	8.2	642.0	female	Vaginal	Dizygotic	False			21.0
+ERR1315149	28.2	123.0	female	Cesarean	Monozygotic	False	bd	False	4.0
+ERR1315150	46.1	152.0	male	Cesarean	Dizygotic	False			5.0
+ERR1315151	48.1	84.0	female	Cesarean	Monozygotic	True	bd	False	3.0
+ERR1315152	48.2	84.0	female	Cesarean	Monozygotic	True	bd	False	3.0
+ERR1315162	3.1	710.0	male	Vaginal	Monozygotic	True			23.0
+ERR1315163	3.2	710.0	male	Vaginal	Monozygotic	True			23.0
+ERR1315164	44.1	235.0	male	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1315171	28.1	247.0	female	Cesarean	Monozygotic	False	fd	True	8.0
+ERR1315172	28.2	247.0	female	Cesarean	Monozygotic	False	fd	True	8.0
+ERR1315173	3.1	436.0	male	Vaginal	Monozygotic	True			14.0
+ERR1315174	28.2	336.0	female	Cesarean	Monozygotic	False	fd	True	11.0
+ERR1315175	35.1	181.0	female	Vaginal	Monozygotic	False	bd	True	6.0
+ERR1315075	6.2	289.0	female	Vaginal	Unknown	False	fd	True	9.0
+ERR1315074	3.1	648.0	male	Vaginal	Monozygotic	True			21.0
+ERR1315073	6.1	624.0	female	Vaginal	Unknown	False			21.0
+ERR1314974	39.1	543.0	male	Cesarean	Monozygotic	True			18.0
+ERR1314978	42.1	208.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1314979	42.2	208.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1314980	29.1	505.0	female	Vaginal	Dizygotic	False			17.0
+ERR1314981	29.2	506.0	female	Vaginal	Dizygotic	False			17.0
+ERR1314982	5.1	349.0	male	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1314983	5.2	349.0	male	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1314984	6.1	714.0	female	Vaginal	Unknown	False			23.0
+ERR1314994	33.2	500.0	female	Cesarean	Dizygotic	False			16.0
+ERR1314995	27.2	628.0	female	Cesarean	Dizygotic	True			21.0
+ERR1314996	33.1	531.0	female	Cesarean	Dizygotic	False			17.0
+ERR1314997	33.2	530.0	female	Cesarean	Dizygotic	False			17.0
+ERR1314998	3.1	68.0	male	Vaginal	Monozygotic	True	fd	False	2.0
+ERR1314999	3.2	68.0	male	Vaginal	Monozygotic	True	fd	False	2.0
+ERR1315000	5.1	440.0	male	Cesarean	Dizygotic	False			14.0
+ERR1315001	5.2	440.0	male	Cesarean	Dizygotic	False			14.0
+ERR1315002	27.1	749.0	female	Cesarean	Dizygotic	True			25.0
+ERR1315003	27.2	749.0	female	Cesarean	Dizygotic	True			25.0
+ERR1315004	44.1	79.0	male	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1314918	27.2	502.0	female	Cesarean	Dizygotic	True			16.0
+ERR1314919	44.2	201.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1314923	8.2	1064.0	female	Vaginal	Dizygotic	False			35.0
+ERR1314924	33.2	134.0	female	Cesarean	Dizygotic	False	fd	False	4.0
+ERR1314926	4.1	458.0	female	Cesarean	Dizygotic	True			15.0
+ERR1314927	4.2	458.0	male	Cesarean	Dizygotic	True			15.0
+ERR1314931	30.2	639.0	female	Cesarean	Monozygotic	True			21.0
+ERR1314935	30.1	333.0	female	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1314936	30.2	333.0	female	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1314937	45.2	404.0	male	Cesarean	Dizygotic	False			13.0
+ERR1314925	33.2	164.0	female	Cesarean	Dizygotic	False	fd	False	5.0
+ERR1315044	4.2	218.0	male	Cesarean	Dizygotic	True	fd	True	7.0
+ERR1315045	6.1	197.0	female	Vaginal	Unknown	False	fd	True	6.0
+ERR1315046	6.2	197.0	female	Vaginal	Unknown	False	fd	True	6.0
+ERR1315047	8.1	547.0	male	Vaginal	Dizygotic	False			18.0
+ERR1315048	8.2	547.0	female	Vaginal	Dizygotic	False			18.0
+ERR1315049	47.1	38.0	male	Vaginal	Monozygotic	True	fd	True	1.0
+ERR1315050	47.2	38.0	male	Cesarean_emergency	Monozygotic	True	fd	True	1.0
+ERR1315069	29.1	416.0	female	Vaginal	Dizygotic	False			14.0
+ERR1315070	29.2	415.0	female	Vaginal	Dizygotic	False			14.0
+ERR1315071	3.1	253.0	male	Vaginal	Monozygotic	True	fd	True	8.0
+ERR1315072	3.2	984.0	male	Vaginal	Monozygotic	True			32.0
+ERR1315008	6.2	623.0	female	Vaginal	Unknown	False			20.0
+ERR1315009	37.1	244.0	female	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1315010	37.2	244.0	female	Cesarean	Monozygotic	True	fd	True	8.0
+ERR1315011	43.1	156.0	male	Cesarean	Monozygotic	False	fd	True	5.0
+ERR1315012	43.2	157.0	male	Cesarean	Monozygotic	False	fd	True	5.0
+ERR1315019	6.1	289.0	female	Vaginal	Unknown	False	fd	True	9.0
+ERR1315020	3.1	677.0	male	Vaginal	Monozygotic	True			22.0
+ERR1315021	8.1	670.0	male	Vaginal	Dizygotic	False			22.0
+ERR1315022	27.2	170.0	female	Cesarean	Dizygotic	True	fd	False	6.0
+ERR1315023	48.1	111.0	female	Cesarean	Monozygotic	True	bd	False	4.0
+ERR1315037	3.2	465.0	male	Vaginal	Monozygotic	True			15.0
+ERR1315036	3.1	465.0	male	Vaginal	Monozygotic	True			15.0
+ERR1315032	3.2	40.0	male	Vaginal	Monozygotic	True	bd	False	1.0
+ERR1315030	29.2	569.0	female	Vaginal	Dizygotic	False			19.0
+ERR1315029	3.2	1106.0	male	Vaginal	Monozygotic	True			36.0
+ERR1315028	6.2	349.0	female	Vaginal	Unknown	False			11.0
+ERR1315027	6.1	349.0	female	Vaginal	Unknown	False			11.0
+ERR1315031	3.1	40.0	male	Vaginal	Monozygotic	True	bd	False	1.0
+ERR1313424	42.2	682.0	male	Cesarean	Monozygotic	True			22.0
+ERR1313422	39.1	712.0	male	Cesarean	Monozygotic	True			23.0
+ERR1310590	13.1	166.0	female	Cesarean	Monozygotic	False	fd	False	5.0
+ERR1310591	13.1	220.0	female	Cesarean	Monozygotic	False	fd	True	7.0
+ERR1310592	13.1	256.0	female	Cesarean	Monozygotic	False	fd	True	8.0
+ERR1310593	13.1	345.0	female	Cesarean	Monozygotic	False	fd	True	11.0
+ERR1310594	13.1	385.0	female	Cesarean	Monozygotic	False	fd	True	13.0
+ERR1310595	13.1	414.0	female	Cesarean	Monozygotic	False	no milk	True	14.0
+ERR1310596	13.1	739.0	female	Cesarean	Monozygotic	False			24.0
+ERR1310597	13.1	785.0	female	Cesarean	Monozygotic	False			26.0
+ERR1310598	13.2	220.0	female	Cesarean	Monozygotic	False	fd	True	7.0
+ERR1310599	13.2	255.0	female	Cesarean	Monozygotic	False	fd	True	8.0
+ERR1310600	13.2	385.0	female	Cesarean	Monozygotic	False	fd	True	13.0
+ERR1310601	13.2	415.0	female	Cesarean	Monozygotic	False	no milk	True	14.0
+ERR1310602	14.1	133.0	male	Vaginal	Dizygotic	True	fd	True	4.0
+ERR1310603	14.1	1041.0	male	Vaginal	Dizygotic	True			34.0
+ERR1310589	13.1	1028.0	female	Cesarean	Monozygotic	False			34.0
+ERR1310604	14.1	38.0	male	Vaginal	Dizygotic	True	fd	False	1.0
+ERR1310606	14.2	1041.0	female	Vaginal	Dizygotic	True			34.0
+ERR1310607	14.2	297.0	female	Vaginal	Dizygotic	True			10.0
+ERR1310608	14.2	216.0	female	Vaginal	Dizygotic	True	fd	True	7.0
+ERR1310609	14.2	369.0	female	Vaginal	Dizygotic	True	no milk	True	12.0
+ERR1310610	14.2	480.0	female	Vaginal	Dizygotic	True			16.0
+ERR1310611	15.1	1052.0	male	Vaginal	Monozygotic	True			35.0
+ERR1310612	15.2	1052.0	male	Vaginal	Monozygotic	True			35.0
+ERR1310613	16.1	1053.0	female	Cesarean	Dizygotic	True			35.0
+ERR1310614	16.1	111.0	female	Cesarean	Dizygotic	True	fd	True	4.0
+ERR1310615	16.1	175.0	female	Cesarean	Dizygotic	True	fd	True	6.0
+ERR1310616	16.1	249.0	female	Cesarean	Dizygotic	True	fd	True	8.0
+ERR1310617	16.1	230.0	female	Cesarean	Dizygotic	True	fd	True	8.0
+ERR1310618	16.1	291.0	female	Cesarean	Dizygotic	True	fd	True	10.0
+ERR1310619	16.1	369.0	female	Cesarean	Dizygotic	True	fd	True	12.0
+ERR1310605	14.1	67.0	male	Vaginal	Dizygotic	True	fd	False	2.0
+ERR1310620	16.1	468.0	female	Cesarean	Dizygotic	True			15.0
+ERR1310588	12.2	657.0	female	Vaginal	Monozygotic	False			22.0
+ERR1310586	12.2	314.0	female	Vaginal	Monozygotic	False	fd	True	10.0
+ERR1310556	25.1	710.0	female	Vaginal	Monozygotic	False			23.0
+ERR1310557	25.1	722.0	female	Vaginal	Monozygotic	False			24.0
+ERR1310558	25.1	740.0	female	Vaginal	Monozygotic	False			24.0
+ERR1310559	25.2	557.0	female	Cesarean_emergency	Monozygotic	False			18.0
+ERR1310560	25.2	683.0	female	Cesarean_emergency	Monozygotic	False			22.0
+ERR1310561	25.2	710.0	female	Cesarean_emergency	Monozygotic	False			23.0
+ERR1310562	25.2	724.0	female	Cesarean_emergency	Monozygotic	False			24.0
+ERR1310563	25.2	740.0	female	Cesarean_emergency	Monozygotic	False			24.0
+ERR1310564	26.2	157.0	female	Vaginal	Dizygotic	False	fd	True	5.0
+ERR1310565	26.2	171.0	female	Vaginal	Dizygotic	False	fd	True	6.0
+ERR1310566	27.1	533.0	female	Cesarean	Dizygotic	True			18.0
+ERR1310567	27.1	649.0	female	Cesarean	Dizygotic	True			21.0
+ERR1310568	10.1	1045.0	female	Cesarean	Dizygotic	True			34.0
+ERR1310569	10.1	192.0	female	Cesarean	Dizygotic	True	bd	True	6.0
+ERR1310587	12.2	429.0	female	Vaginal	Monozygotic	False			14.0
+ERR1310570	10.1	221.0	female	Cesarean	Dizygotic	True	bd	True	7.0
+ERR1310572	10.1	622.0	female	Cesarean	Dizygotic	True			20.0
+ERR1310573	10.2	1045.0	male	Cesarean	Dizygotic	True			34.0
+ERR1310574	10.2	192.0	male	Cesarean	Dizygotic	True	bd	True	6.0
+ERR1310575	10.2	221.0	male	Cesarean	Dizygotic	True	bd	True	7.0
+ERR1310576	10.2	463.0	male	Cesarean	Dizygotic	True			15.0
+ERR1310577	11.1	193.0	male	Vaginal	Dizygotic	False	fd	True	6.0
+ERR1310578	10.2	531.0	male	Cesarean	Dizygotic	True			17.0
+ERR1310579	12.1	1049.0	female	Vaginal	Monozygotic	False			34.0
+ERR1310580	12.1	132.0	female	Vaginal	Monozygotic	False	fd	False	4.0
+ERR1310581	12.1	163.0	female	Vaginal	Monozygotic	False	fd	True	5.0
+ERR1310582	12.1	314.0	female	Vaginal	Monozygotic	False	fd	True	10.0
+ERR1310583	12.1	378.0	female	Vaginal	Monozygotic	False	fd	True	12.0
+ERR1310584	12.1	495.0	female	Vaginal	Monozygotic	False			16.0
+ERR1310585	12.2	1045.0	female	Vaginal	Monozygotic	False			34.0
+ERR1310571	10.1	250.0	female	Cesarean	Dizygotic	True	bd	True	8.0
+ERR1310555	25.1	557.0	female	Vaginal	Monozygotic	False			18.0
+ERR1310621	16.1	47.0	female	Cesarean	Dizygotic	True	fd	False	2.0
+ERR1310623	16.1	656.0	female	Cesarean	Dizygotic	True			22.0
+ERR1310658	2.1	337.0	male	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1310659	2.1	461.0	male	Cesarean	Dizygotic	False			15.0
+ERR1310660	2.2	1124.0	male	Cesarean	Dizygotic	False			37.0
+ERR1310661	2.2	218.0	male	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1310662	2.2	250.0	male	Cesarean	Dizygotic	False	fd	True	8.0
+ERR1310663	2.2	487.0	male	Cesarean	Dizygotic	False			16.0
+ERR1310664	2.2	530.0	male	Cesarean	Dizygotic	False			17.0
+ERR1310665	20.1	283.0	male	Cesarean	Monozygotic	True	bd	True	9.0
+ERR1310666	20.1	601.0	male	Cesarean	Monozygotic	True			20.0
+ERR1310667	20.1	953.0	male	Cesarean	Monozygotic	True			31.0
+ERR1310668	20.2	566.0	male	Cesarean	Monozygotic	True			19.0
+ERR1310669	20.2	601.0	male	Cesarean	Monozygotic	True			20.0
+ERR1310670	20.2	953.0	male	Cesarean	Monozygotic	True			31.0
+ERR1310671	21.1	282.0	female	Vaginal	Monozygotic	False	bd	True	9.0
+ERR1310657	2.1	267.0	male	Cesarean	Dizygotic	False	fd	True	9.0
+ERR1310672	21.1	307.0	female	Vaginal	Monozygotic	False	bd	True	10.0
+ERR1310674	21.1	477.0	female	Vaginal	Monozygotic	False			16.0
+ERR1310675	21.2	129.0	female	Vaginal	Monozygotic	False	bd	False	4.0
+ERR1310676	21.2	307.0	female	Vaginal	Monozygotic	False	bd	True	10.0
+ERR1310677	21.2	388.0	female	Vaginal	Monozygotic	False	bd	True	13.0
+ERR1310678	21.2	407.0	female	Vaginal	Monozygotic	False			13.0
+ERR1310679	21.2	430.0	female	Vaginal	Monozygotic	False			14.0
+ERR1310680	21.2	477.0	female	Vaginal	Monozygotic	False			16.0
+ERR1310681	23.1	256.0	male	Vaginal	Dizygotic	True			8.0
+ERR1310682	23.1	290.0	male	Vaginal	Dizygotic	True			10.0
+ERR1310683	23.1	316.0	male	Vaginal	Dizygotic	True	fd	True	10.0
+ERR1310684	23.1	624.0	male	Vaginal	Dizygotic	True			21.0
+ERR1310685	23.2	289.0	male	Cesarean_emergency	Dizygotic	True	fd	True	9.0
+ERR1310686	23.2	255.0	male	Cesarean_emergency	Dizygotic	True	fd	True	8.0
+ERR1310687	23.2	316.0	male	Cesarean_emergency	Dizygotic	True	fd	True	10.0
+ERR1310673	21.1	430.0	female	Vaginal	Monozygotic	False			14.0
+ERR1310622	16.1	562.0	female	Cesarean	Dizygotic	True			18.0
+ERR1310656	19.2	967.0	male	Cesarean	Monozygotic	True			32.0
+ERR1310654	19.2	604.0	male	Cesarean	Monozygotic	True			20.0
+ERR1310624	16.2	1053.0	female	Cesarean	Dizygotic	True			35.0
+ERR1310625	16.2	111.0	female	Cesarean	Dizygotic	True	fd	True	4.0
+ERR1310626	16.2	136.0	female	Cesarean	Dizygotic	True	fd	False	4.0
+ERR1310627	16.2	249.0	female	Cesarean	Dizygotic	True	fd	True	8.0
+ERR1310628	16.2	175.0	female	Cesarean	Dizygotic	True	fd	True	6.0
+ERR1310629	16.2	46.0	female	Cesarean	Dizygotic	True	fd	False	2.0
+ERR1310630	16.2	537.0	female	Cesarean	Dizygotic	True			18.0
+ERR1310631	16.2	656.0	female	Cesarean	Dizygotic	True			22.0
+ERR1310632	16.2	83.0	female	Cesarean	Dizygotic	True	fd	False	3.0
+ERR1310633	16.2	998.0	female	Cesarean	Dizygotic	True			33.0
+ERR1310634	17.1	1038.0	female	Vaginal	Dizygotic	True			34.0
+ERR1310635	17.2	1038.0	male	Vaginal	Dizygotic	True			34.0
+ERR1310636	17.2	190.0	male	Vaginal	Dizygotic	True	fd	True	6.0
+ERR1310637	17.2	428.0	male	Vaginal	Dizygotic	True			14.0
+ERR1310655	19.2	636.0	male	Cesarean	Monozygotic	True			21.0
+ERR1310638	17.2	458.0	male	Vaginal	Dizygotic	True			15.0
+ERR1310640	18.1	1015.0	female	Cesarean	Dizygotic	False			33.0
+ERR1310641	18.1	648.0	female	Cesarean	Dizygotic	False			21.0
+ERR1310642	18.1	97.0	female	Cesarean	Dizygotic	False	fd	True	3.0
+ERR1310643	18.2	1015.0	female	Cesarean	Dizygotic	False			33.0
+ERR1310644	18.2	648.0	female	Cesarean	Dizygotic	False			21.0
+ERR1310645	19.1	182.0	male	Cesarean	Monozygotic	True	bd	True	6.0
+ERR1310646	19.1	273.0	male	Cesarean	Monozygotic	True	bd	True	9.0
+ERR1310647	19.1	296.0	male	Cesarean	Monozygotic	True	bd	True	10.0
+ERR1310648	19.1	440.0	male	Cesarean	Monozygotic	True			14.0
+ERR1310649	19.1	635.0	male	Cesarean	Monozygotic	True			21.0
+ERR1310650	19.2	143.0	male	Cesarean	Monozygotic	True	bd	True	5.0
+ERR1310651	19.2	178.0	male	Cesarean	Monozygotic	True	bd	True	6.0
+ERR1310652	19.2	293.0	male	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1310653	19.2	360.0	male	Cesarean	Monozygotic	True	bd	True	12.0
+ERR1310639	17.2	531.0	male	Vaginal	Dizygotic	True			17.0
+ERR1310554	24.2	710.0	male	Cesarean	Dizygotic	False			23.0
+ERR1310553	24.2	621.0	male	Cesarean	Dizygotic	False			20.0
+ERR1310552	24.2	561.0	male	Cesarean	Dizygotic	False			18.0
+ERR1310457	10.1	495.0	female	Cesarean	Dizygotic	True			16.0
+ERR1310458	10.1	810.0	female	Cesarean	Dizygotic	True			27.0
+ERR1310459	10.2	810.0	male	Cesarean	Dizygotic	True			27.0
+ERR1310460	11.1	119.0	male	Vaginal	Dizygotic	False	fd	True	4.0
+ERR1310461	11.1	224.0	male	Vaginal	Dizygotic	False	fd	True	7.0
+ERR1310462	11.1	264.0	male	Vaginal	Dizygotic	False	fd	True	9.0
+ERR1310463	11.1	310.0	male	Vaginal	Dizygotic	False	fd	True	10.0
+ERR1310464	11.2	156.0	male	Vaginal	Dizygotic	False	fd	True	5.0
+ERR1310465	11.2	266.0	male	Vaginal	Dizygotic	False	fd	True	9.0
+ERR1310466	11.2	310.0	male	Vaginal	Dizygotic	False	fd	True	10.0
+ERR1310467	12.1	580.0	female	Vaginal	Monozygotic	False			19.0
+ERR1310469	13.1	570.0	female	Cesarean	Monozygotic	False			19.0
+ERR1310470	14.1	193.0	male	Vaginal	Dizygotic	True	fd	True	6.0
+ERR1310471	13.2	785.0	female	Cesarean	Monozygotic	False			26.0
+ERR1310472	14.1	586.0	male	Vaginal	Dizygotic	True			19.0
+ERR1310473	14.1	713.0	male	Vaginal	Dizygotic	True			23.0
+ERR1310474	14.1	803.0	male	Vaginal	Dizygotic	True			26.0
+ERR1310475	14.2	803.0	female	Vaginal	Dizygotic	True			26.0
+ERR1310476	14.2	586.0	female	Vaginal	Dizygotic	True			19.0
+ERR1310477	15.1	104.0	male	Vaginal	Monozygotic	True	bd	True	3.0
+ERR1310478	15.1	222.0	male	Vaginal	Monozygotic	True	fd	True	7.0
+ERR1310479	15.1	125.0	male	Vaginal	Monozygotic	True	bd	False	4.0
+ERR1310480	15.1	284.0	male	Vaginal	Monozygotic	True	fd	True	9.0
+ERR1310481	15.1	368.0	male	Vaginal	Monozygotic	True	fd	True	12.0
+ERR1310482	15.1	308.0	male	Vaginal	Monozygotic	True	fd	True	10.0
+ERR1310468	12.2	765.0	female	Vaginal	Monozygotic	False			25.0
+ERR1310483	15.1	397.0	male	Vaginal	Monozygotic	True			13.0
+ERR1310484	15.1	462.0	male	Vaginal	Monozygotic	True			15.0
+ERR1310485	15.1	433.0	male	Vaginal	Monozygotic	True			14.0
+ERR1310486	15.1	537.0	male	Vaginal	Monozygotic	True			18.0
+ERR1310522	19.2	668.0	male	Cesarean	Monozygotic	True			22.0
+ERR1310523	19.2	759.0	male	Cesarean	Monozygotic	True			25.0
+ERR1310524	2.1	666.0	male	Cesarean	Dizygotic	False			22.0
+ERR1310525	2.1	896.0	male	Cesarean	Dizygotic	False			29.0
+ERR1310526	2.2	896.0	male	Cesarean	Dizygotic	False			29.0
+ERR1310527	20.1	542.0	male	Cesarean	Monozygotic	True			18.0
+ERR1310528	20.1	625.0	male	Cesarean	Monozygotic	True			21.0
+ERR1310529	20.1	658.0	male	Cesarean	Monozygotic	True			22.0
+ERR1310530	20.1	709.0	male	Cesarean	Monozygotic	True			23.0
+ERR1310531	20.1	749.0	male	Cesarean	Monozygotic	True			25.0
+ERR1310532	20.2	437.0	male	Cesarean	Monozygotic	True			14.0
+ERR1310533	20.2	658.0	male	Cesarean	Monozygotic	True			22.0
+ERR1310534	20.2	68.0	male	Cesarean	Monozygotic	True	bd	False	2.0
+ERR1310535	20.2	709.0	male	Cesarean	Monozygotic	True			23.0
+ERR1310521	19.2	574.0	male	Cesarean	Monozygotic	True			19.0
+ERR1310536	20.2	749.0	male	Cesarean	Monozygotic	True			25.0
+ERR1310538	24.1	441.0	male	Cesarean	Dizygotic	False			14.0
+ERR1310539	24.1	505.0	male	Cesarean	Dizygotic	False			17.0
+ERR1310540	24.1	528.0	male	Cesarean	Dizygotic	False			17.0
+ERR1310541	24.1	563.0	male	Cesarean	Dizygotic	False			18.0
+ERR1310542	24.1	591.0	male	Cesarean	Dizygotic	False			19.0
+ERR1310543	24.1	619.0	male	Cesarean	Dizygotic	False			20.0
+ERR1310544	24.1	710.0	male	Cesarean	Dizygotic	False			23.0
+ERR1310545	24.2	156.0	male	Cesarean	Dizygotic	False	fd	True	5.0
+ERR1310546	24.2	187.0	male	Cesarean	Dizygotic	False	fd	True	6.0
+ERR1310547	24.2	397.0	male	Cesarean	Dizygotic	False			13.0
+ERR1310548	24.2	440.0	male	Cesarean	Dizygotic	False			14.0
+ERR1310549	24.2	470.0	male	Cesarean	Dizygotic	False			15.0
+ERR1310550	24.2	505.0	male	Cesarean	Dizygotic	False			17.0
+ERR1310551	24.2	530.0	male	Cesarean	Dizygotic	False			17.0
+ERR1310537	24.1	397.0	male	Cesarean	Dizygotic	False			13.0
+ERR1310520	19.2	511.0	male	Cesarean	Monozygotic	True			17.0
+ERR1310519	19.1	759.0	male	Cesarean	Monozygotic	True			25.0
+ERR1310518	19.1	728.0	male	Cesarean	Monozygotic	True			24.0
+ERR1310487	15.1	566.0	male	Vaginal	Monozygotic	True			19.0
+ERR1310488	15.1	630.0	male	Vaginal	Monozygotic	True			21.0
+ERR1310489	15.1	664.0	male	Vaginal	Monozygotic	True			22.0
+ERR1310490	15.1	67.0	male	Vaginal	Monozygotic	True	bd	False	2.0
+ERR1310491	15.2	125.0	male	Vaginal	Monozygotic	True	bd	False	4.0
+ERR1310492	15.2	154.0	male	Vaginal	Monozygotic	True	bd	True	5.0
+ERR1310493	15.2	222.0	male	Vaginal	Monozygotic	True	fd	True	7.0
+ERR1310494	15.2	253.0	male	Vaginal	Monozygotic	True	fd	True	8.0
+ERR1310495	15.2	286.0	male	Vaginal	Monozygotic	True	fd	True	9.0
+ERR1310496	15.2	308.0	male	Vaginal	Monozygotic	True	fd	True	10.0
+ERR1310497	15.2	368.0	male	Vaginal	Monozygotic	True	fd	True	12.0
+ERR1310498	15.2	397.0	male	Vaginal	Monozygotic	True			13.0
+ERR1310499	15.2	430.0	male	Vaginal	Monozygotic	True			14.0
+ERR1310500	15.2	566.0	male	Vaginal	Monozygotic	True			19.0
+ERR1310501	15.2	594.0	male	Vaginal	Monozygotic	True			20.0
+ERR1310502	15.2	663.0	male	Vaginal	Monozygotic	True			22.0
+ERR1310503	15.2	67.0	male	Vaginal	Monozygotic	True	bd	False	2.0
+ERR1310517	19.1	696.0	male	Cesarean	Monozygotic	True			23.0
+ERR1310516	19.1	598.0	male	Cesarean	Monozygotic	True			20.0
+ERR1310515	19.1	543.0	male	Cesarean	Monozygotic	True			18.0
+ERR1310514	19.1	198.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1310513	18.2	765.0	female	Cesarean	Dizygotic	False			25.0
+ERR1310512	18.2	568.0	female	Cesarean	Dizygotic	False			19.0
+ERR1310511	18.1	766.0	female	Cesarean	Dizygotic	False			25.0
+ERR1310509	17.2	103.0	male	Vaginal	Dizygotic	True	bd	True	3.0
+ERR1310508	17.1	457.0	female	Vaginal	Dizygotic	True			15.0
+ERR1310507	16.2	563.0	female	Cesarean	Dizygotic	True			18.0
+ERR1310506	16.2	232.0	female	Cesarean	Dizygotic	True	fd	True	8.0
+ERR1310505	16.1	688.0	female	Cesarean	Dizygotic	True			23.0
+ERR1310504	15.2	804.0	male	Vaginal	Monozygotic	True			26.0
+ERR1310510	18.1	568.0	female	Cesarean	Dizygotic	False			19.0
+ERR1310688	23.2	366.0	male	Cesarean_emergency	Dizygotic	True	fd	True	12.0
+ERR1309771	14.2	717.0	female	Vaginal	Dizygotic	True			24.0
+ERR1309772	14.2	859.0	female	Vaginal	Dizygotic	True			28.0
+ERR1309773	15.1	504.0	male	Vaginal	Monozygotic	True			17.0
+ERR1309774	15.1	593.0	male	Vaginal	Monozygotic	True			19.0
+ERR1309775	15.1	681.0	male	Vaginal	Monozygotic	True			22.0
+ERR1309776	15.1	711.0	male	Vaginal	Monozygotic	True			23.0
+ERR1309777	15.1	741.0	male	Vaginal	Monozygotic	True			24.0
+ERR1309778	15.1	804.0	male	Vaginal	Monozygotic	True			26.0
+ERR1309779	15.2	463.0	male	Vaginal	Monozygotic	True			15.0
+ERR1309780	15.2	503.0	male	Vaginal	Monozygotic	True			17.0
+ERR1309781	15.2	538.0	male	Vaginal	Monozygotic	True			18.0
+ERR1309782	15.2	632.0	male	Vaginal	Monozygotic	True			21.0
+ERR1309783	15.2	681.0	male	Vaginal	Monozygotic	True			22.0
+ERR1309784	15.2	712.0	male	Vaginal	Monozygotic	True			23.0
+ERR1309770	14.2	683.0	female	Vaginal	Dizygotic	True			22.0
+ERR1309785	16.1	441.0	female	Cesarean	Dizygotic	True			14.0
+ERR1309787	16.1	613.0	female	Cesarean	Dizygotic	True			20.0
+ERR1309788	16.1	630.0	female	Cesarean	Dizygotic	True			21.0
+ERR1309789	16.1	712.0	female	Cesarean	Dizygotic	True			23.0
+ERR1309790	16.1	749.0	female	Cesarean	Dizygotic	True			25.0
+ERR1309791	16.1	808.0	female	Cesarean	Dizygotic	True			27.0
+ERR1309792	16.2	442.0	female	Cesarean	Dizygotic	True			15.0
+ERR1309793	16.2	614.0	female	Cesarean	Dizygotic	True			20.0
+ERR1309794	16.2	632.0	female	Cesarean	Dizygotic	True			21.0
+ERR1309795	16.2	689.0	female	Cesarean	Dizygotic	True			23.0
+ERR1309796	16.2	713.0	female	Cesarean	Dizygotic	True			23.0
+ERR1309797	16.2	750.0	female	Cesarean	Dizygotic	True			25.0
+ERR1309798	16.2	807.0	female	Cesarean	Dizygotic	True			27.0
+ERR1309799	17.1	495.0	female	Vaginal	Dizygotic	True			16.0
+ERR1309800	17.1	526.0	female	Vaginal	Dizygotic	True			17.0
+ERR1309786	16.1	511.0	female	Cesarean	Dizygotic	True			17.0
+ERR1309801	17.1	575.0	female	Vaginal	Dizygotic	True			19.0
+ERR1309769	14.2	649.0	female	Vaginal	Dizygotic	True			21.0
+ERR1309767	14.2	564.0	female	Vaginal	Dizygotic	True			19.0
+ERR1309737	12.1	720.0	female	Vaginal	Monozygotic	False			24.0
+ERR1309738	12.1	766.0	female	Vaginal	Monozygotic	False			25.0
+ERR1309739	12.1	803.0	female	Vaginal	Monozygotic	False			26.0
+ERR1309740	12.2	547.0	female	Vaginal	Monozygotic	False			18.0
+ERR1309741	12.2	597.0	female	Vaginal	Monozygotic	False			20.0
+ERR1309742	12.2	631.0	female	Vaginal	Monozygotic	False			21.0
+ERR1309743	12.2	692.0	female	Vaginal	Monozygotic	False			23.0
+ERR1309744	12.2	721.0	female	Vaginal	Monozygotic	False			24.0
+ERR1309745	12.2	803.0	female	Vaginal	Monozygotic	False			26.0
+ERR1309746	13.1	481.0	female	Cesarean	Monozygotic	False			16.0
+ERR1309747	13.1	661.0	female	Cesarean	Monozygotic	False			22.0
+ERR1309748	13.1	705.0	female	Cesarean	Monozygotic	False			23.0
+ERR1309749	13.1	730.0	female	Cesarean	Monozygotic	False			24.0
+ERR1309750	13.1	865.0	female	Cesarean	Monozygotic	False			28.0
+ERR1309768	14.2	620.0	female	Vaginal	Dizygotic	True			20.0
+ERR1309751	13.2	445.0	female	Cesarean	Monozygotic	False			15.0
+ERR1309753	13.2	697.0	female	Cesarean	Monozygotic	False			23.0
+ERR1309754	13.2	733.0	female	Cesarean	Monozygotic	False			24.0
+ERR1309755	13.2	739.0	female	Cesarean	Monozygotic	False			24.0
+ERR1309756	13.2	832.0	female	Cesarean	Monozygotic	False			27.0
+ERR1309757	14.1	480.0	male	Vaginal	Dizygotic	True			16.0
+ERR1309758	14.1	487.0	male	Vaginal	Dizygotic	True			16.0
+ERR1309759	14.1	537.0	male	Vaginal	Dizygotic	True			18.0
+ERR1309760	14.1	564.0	male	Vaginal	Dizygotic	True			19.0
+ERR1309761	14.1	620.0	male	Vaginal	Dizygotic	True			20.0
+ERR1309762	14.1	650.0	male	Vaginal	Dizygotic	True			21.0
+ERR1309763	14.1	683.0	male	Vaginal	Dizygotic	True			22.0
+ERR1309764	14.1	861.0	male	Vaginal	Dizygotic	True			28.0
+ERR1309765	14.2	487.0	female	Vaginal	Dizygotic	True			16.0
+ERR1309766	14.2	536.0	female	Vaginal	Dizygotic	True			18.0
+ERR1309752	13.2	661.0	female	Cesarean	Monozygotic	False			22.0
+ERR1309736	12.1	693.0	female	Vaginal	Monozygotic	False			23.0
+ERR1309802	17.1	597.0	female	Vaginal	Dizygotic	True			20.0
+ERR1309804	17.1	652.0	female	Vaginal	Dizygotic	True			21.0
+ERR1309839	19.1	474.0	male	Cesarean	Monozygotic	True			16.0
+ERR1309840	19.1	578.0	male	Cesarean	Monozygotic	True			19.0
+ERR1309841	19.1	665.0	male	Cesarean	Monozygotic	True			22.0
+ERR1309842	19.1	815.0	male	Cesarean	Monozygotic	True			27.0
+ERR1309843	19.2	473.0	male	Cesarean	Monozygotic	True			16.0
+ERR1309844	19.2	697.0	male	Cesarean	Monozygotic	True			23.0
+ERR1309845	19.2	727.0	male	Cesarean	Monozygotic	True			24.0
+ERR1309846	19.2	815.0	male	Cesarean	Monozygotic	True			27.0
+ERR1309847	2.1	597.0	male	Cesarean	Dizygotic	False			20.0
+ERR1309848	2.1	961.0	male	Cesarean	Dizygotic	False			32.0
+ERR1309849	2.2	597.0	male	Cesarean	Dizygotic	False			20.0
+ERR1309850	2.2	614.0	male	Cesarean	Dizygotic	False			20.0
+ERR1309851	2.2	666.0	male	Cesarean	Dizygotic	False			22.0
+ERR1309852	2.2	717.0	male	Cesarean	Dizygotic	False			24.0
+ERR1309838	19.1	417.0	male	Cesarean	Monozygotic	True			14.0
+ERR1309853	2.2	962.0	male	Cesarean	Dizygotic	False			32.0
+ERR1309855	20.1	465.0	male	Cesarean	Monozygotic	True			15.0
+ERR1309856	20.1	566.0	male	Cesarean	Monozygotic	True			19.0
+ERR1309857	20.1	506.0	male	Cesarean	Monozygotic	True			17.0
+ERR1309858	20.1	680.0	male	Cesarean	Monozygotic	True			22.0
+ERR1309859	20.1	790.0	male	Cesarean	Monozygotic	True			26.0
+ERR1309860	20.1	834.0	male	Cesarean	Monozygotic	True			27.0
+ERR1309861	20.2	506.0	male	Cesarean	Monozygotic	True			17.0
+ERR1309862	20.2	625.0	male	Cesarean	Monozygotic	True			21.0
+ERR1309863	20.2	692.0	male	Cesarean	Monozygotic	True			23.0
+ERR1309864	20.2	790.0	male	Cesarean	Monozygotic	True			26.0
+ERR1309865	23.2	625.0	male	Cesarean_emergency	Dizygotic	True			21.0
+ERR1309866	24.1	655.0	male	Cesarean	Dizygotic	False			22.0
+ERR1309867	24.1	471.0	male	Cesarean	Dizygotic	False			15.0
+ERR1309868	24.1	676.0	male	Cesarean	Dizygotic	False			22.0
+ERR1309854	20.1	437.0	male	Cesarean	Monozygotic	True			14.0
+ERR1309803	17.1	623.0	female	Vaginal	Dizygotic	True			20.0
+ERR1309837	18.2	827.0	female	Cesarean	Dizygotic	False			27.0
+ERR1309835	18.2	684.0	female	Cesarean	Dizygotic	False			22.0
+ERR1309805	17.1	696.0	female	Vaginal	Dizygotic	True			23.0
+ERR1309806	17.1	710.0	female	Vaginal	Dizygotic	True			23.0
+ERR1309807	17.1	814.0	female	Vaginal	Dizygotic	True			27.0
+ERR1309808	17.1	862.0	female	Vaginal	Dizygotic	True			28.0
+ERR1309809	17.2	495.0	male	Vaginal	Dizygotic	True			16.0
+ERR1309810	17.2	575.0	male	Vaginal	Dizygotic	True			19.0
+ERR1309811	17.2	596.0	male	Vaginal	Dizygotic	True			20.0
+ERR1309812	17.2	623.0	male	Vaginal	Dizygotic	True			20.0
+ERR1309813	17.2	652.0	male	Vaginal	Dizygotic	True			21.0
+ERR1309814	17.2	688.0	male	Vaginal	Dizygotic	True			23.0
+ERR1309815	17.2	710.0	male	Vaginal	Dizygotic	True			23.0
+ERR1309816	17.2	813.0	male	Vaginal	Dizygotic	True			27.0
+ERR1309817	17.2	862.0	male	Vaginal	Dizygotic	True			28.0
+ERR1309818	18.1	456.0	female	Cesarean	Dizygotic	False			15.0
+ERR1309836	18.2	724.0	female	Cesarean	Dizygotic	False			24.0
+ERR1309819	18.1	489.0	female	Cesarean	Dizygotic	False			16.0
+ERR1309821	18.1	519.0	female	Cesarean	Dizygotic	False			17.0
+ERR1309822	18.1	526.0	female	Cesarean	Dizygotic	False			17.0
+ERR1309823	18.1	590.0	female	Cesarean	Dizygotic	False			19.0
+ERR1309824	18.1	620.0	female	Cesarean	Dizygotic	False			20.0
+ERR1309825	18.1	684.0	female	Cesarean	Dizygotic	False			22.0
+ERR1309826	18.1	724.0	female	Cesarean	Dizygotic	False			24.0
+ERR1309827	18.1	827.0	female	Cesarean	Dizygotic	False			27.0
+ERR1309828	18.2	456.0	female	Cesarean	Dizygotic	False			15.0
+ERR1309829	18.2	488.0	female	Cesarean	Dizygotic	False			16.0
+ERR1309830	18.2	501.0	female	Cesarean	Dizygotic	False			16.0
+ERR1309831	18.2	519.0	female	Cesarean	Dizygotic	False			17.0
+ERR1309832	18.2	527.0	female	Cesarean	Dizygotic	False			17.0
+ERR1309833	18.2	589.0	female	Cesarean	Dizygotic	False			19.0
+ERR1309834	18.2	620.0	female	Cesarean	Dizygotic	False			20.0
+ERR1309820	18.1	501.0	female	Cesarean	Dizygotic	False			16.0
+ERR1309869	24.1	754.0	male	Cesarean	Dizygotic	False			25.0
+ERR1309735	12.1	658.0	female	Vaginal	Monozygotic	False			22.0
+ERR1309733	12.1	597.0	female	Vaginal	Monozygotic	False			20.0
+ERR1313423	39.2	712.0	male	Cesarean	Monozygotic	True			23.0
+ERR1309734	12.1	631.0	female	Vaginal	Monozygotic	False			21.0
+ERR1309715	10.1	572.0	female	Cesarean	Dizygotic	True			19.0
+ERR1309716	10.1	600.0	female	Cesarean	Dizygotic	True			20.0
+ERR1309717	10.1	649.0	female	Cesarean	Dizygotic	True			21.0
+ERR1309719	10.1	715.0	female	Cesarean	Dizygotic	True			23.0
+ERR1309720	10.1	737.0	female	Cesarean	Dizygotic	True			24.0
+ERR1309721	10.1	859.0	female	Cesarean	Dizygotic	True			28.0
+ERR1309722	10.2	495.0	male	Cesarean	Dizygotic	True			16.0
+ERR1309723	10.2	572.0	male	Cesarean	Dizygotic	True			19.0
+ERR1309724	10.2	599.0	male	Cesarean	Dizygotic	True			20.0
+ERR1309725	10.2	622.0	male	Cesarean	Dizygotic	True			20.0
+ERR1309726	10.2	648.0	male	Cesarean	Dizygotic	True			21.0
+ERR1309727	10.2	690.0	male	Cesarean	Dizygotic	True			23.0
+ERR1309728	10.2	718.0	male	Cesarean	Dizygotic	True			24.0
+ERR1309729	10.2	737.0	male	Cesarean	Dizygotic	True			24.0
+ERR1309730	10.2	861.0	male	Cesarean	Dizygotic	True			28.0
+ERR1309731	12.1	462.0	female	Vaginal	Monozygotic	False			15.0
+ERR1309732	12.1	548.0	female	Vaginal	Monozygotic	False			18.0
+ERR1309718	10.1	690.0	female	Cesarean	Dizygotic	True			23.0
+ERR1309870	24.2	655.0	male	Cesarean	Dizygotic	False			22.0
+ERR1309871	24.2	755.0	male	Cesarean	Dizygotic	False			25.0
+ERR1309872	25.1	684.0	female	Vaginal	Monozygotic	False			22.0
+ERR1310044	24.2	134.0	male	Cesarean	Dizygotic	False	fd	True	4.0
+ERR1310045	24.2	220.0	male	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1310046	24.2	249.0	male	Cesarean	Dizygotic	False	fd	True	8.0
+ERR1310047	24.2	282.0	male	Cesarean	Dizygotic	False	fd	True	9.0
+ERR1310048	24.2	316.0	male	Cesarean	Dizygotic	False	fd	True	10.0
+ERR1310049	24.2	339.0	male	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1310050	24.2	35.0	male	Cesarean	Dizygotic	False	fd	False	1.0
+ERR1310051	24.2	369.0	male	Cesarean	Dizygotic	False	fd	True	12.0
+ERR1310052	25.1	187.0	female	Vaginal	Monozygotic	False	bd	True	6.0
+ERR1310053	25.1	284.0	female	Vaginal	Monozygotic	False	fd	True	9.0
+ERR1310054	25.1	318.0	female	Vaginal	Monozygotic	False	fd	True	10.0
+ERR1310055	25.1	379.0	female	Vaginal	Monozygotic	False	fd	True	12.0
+ERR1310056	25.1	64.0	female	Vaginal	Monozygotic	False	bd	False	2.0
+ERR1310057	25.2	157.0	female	Cesarean_emergency	Monozygotic	False	bd	True	5.0
+ERR1310043	24.1	35.0	male	Cesarean	Dizygotic	False	fd	False	1.0
+ERR1310058	25.2	215.0	female	Cesarean_emergency	Monozygotic	False	fd	True	7.0
+ERR1310060	25.2	318.0	female	Cesarean_emergency	Monozygotic	False	fd	True	10.0
+ERR1310061	25.2	379.0	female	Cesarean_emergency	Monozygotic	False	fd	True	12.0
+ERR1310062	26.1	158.0	female	Vaginal	Dizygotic	False	fd	True	5.0
+ERR1310063	26.1	172.0	female	Vaginal	Dizygotic	False	fd	True	6.0
+ERR1310064	26.1	192.0	female	Vaginal	Dizygotic	False	fd	True	6.0
+ERR1310065	26.1	214.0	female	Vaginal	Dizygotic	False	fd	True	7.0
+ERR1310066	26.1	249.0	female	Vaginal	Dizygotic	False	fd	True	8.0
+ERR1310067	26.1	283.0	female	Vaginal	Dizygotic	False	fd	True	9.0
+ERR1310068	26.1	341.0	female	Vaginal	Dizygotic	False	fd	True	11.0
+ERR1310069	26.1	42.0	female	Vaginal	Dizygotic	False	fd	False	1.0
+ERR1310070	26.2	116.0	female	Vaginal	Dizygotic	False	fd	False	4.0
+ERR1310071	26.2	188.0	female	Vaginal	Dizygotic	False	fd	True	6.0
+ERR1310072	26.2	215.0	female	Vaginal	Dizygotic	False	fd	True	7.0
+ERR1310073	26.2	249.0	female	Vaginal	Dizygotic	False	fd	True	8.0
+ERR1310059	25.2	283.0	female	Cesarean_emergency	Monozygotic	False	fd	True	9.0
+ERR1310074	26.2	283.0	female	Vaginal	Dizygotic	False	fd	True	9.0
+ERR1310042	24.1	368.0	male	Cesarean	Dizygotic	False	fd	True	12.0
+ERR1310040	24.1	316.0	male	Cesarean	Dizygotic	False	fd	True	10.0
+ERR1310010	2.2	205.0	male	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1310011	2.2	283.0	male	Cesarean	Dizygotic	False	fd	True	9.0
+ERR1310012	2.2	316.0	male	Cesarean	Dizygotic	False	fd	True	10.0
+ERR1310013	2.2	367.0	male	Cesarean	Dizygotic	False	fd	True	12.0
+ERR1310014	2.2	418.0	male	Cesarean	Dizygotic	False			14.0
+ERR1310015	20.1	259.0	male	Cesarean	Monozygotic	True	bd	True	9.0
+ERR1310016	2.2	460.0	male	Cesarean	Dizygotic	False			15.0
+ERR1310017	20.1	371.0	male	Cesarean	Monozygotic	True	no milk	True	12.0
+ERR1310018	20.1	343.0	male	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1310019	20.2	282.0	male	Cesarean	Monozygotic	True	bd	True	9.0
+ERR1310020	20.2	313.0	male	Cesarean	Monozygotic	True	bd	True	10.0
+ERR1310021	20.2	342.0	male	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1310022	21.1	231.0	female	Vaginal	Monozygotic	False	bd	False	8.0
+ERR1310023	20.2	372.0	male	Cesarean	Monozygotic	True	no milk	True	12.0
+ERR1310041	24.1	339.0	male	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1310024	21.1	346.0	female	Vaginal	Monozygotic	False	bd	True	11.0
+ERR1310026	21.1	387.0	female	Vaginal	Monozygotic	False	bd	True	13.0
+ERR1310027	21.2	226.0	female	Vaginal	Monozygotic	False	bd	True	7.0
+ERR1310028	21.2	249.0	female	Vaginal	Monozygotic	False	bd	True	8.0
+ERR1310029	21.2	346.0	female	Vaginal	Monozygotic	False	bd	True	11.0
+ERR1310030	23.1	190.0	male	Vaginal	Dizygotic	True	fd	True	6.0
+ERR1310031	23.1	213.0	male	Vaginal	Dizygotic	True	fd	True	7.0
+ERR1310032	23.2	190.0	male	Cesarean_emergency	Dizygotic	True	fd	True	6.0
+ERR1310033	23.2	213.0	male	Cesarean_emergency	Dizygotic	True	fd	True	7.0
+ERR1310034	24.1	134.0	male	Cesarean	Dizygotic	False	fd	True	4.0
+ERR1310035	24.1	156.0	male	Cesarean	Dizygotic	False	fd	True	5.0
+ERR1310036	24.1	186.0	male	Cesarean	Dizygotic	False	fd	True	6.0
+ERR1310037	24.1	220.0	male	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1310038	24.1	252.0	male	Cesarean	Dizygotic	False	fd	True	8.0
+ERR1310039	24.1	282.0	male	Cesarean	Dizygotic	False	fd	True	9.0
+ERR1310025	21.1	249.0	female	Vaginal	Monozygotic	False	bd	True	8.0
+ERR1310009	2.2	155.0	male	Cesarean	Dizygotic	False	fd	True	5.0
+ERR1310075	26.2	341.0	female	Vaginal	Dizygotic	False	fd	True	11.0
+ERR1310077	27.1	171.0	female	Cesarean	Dizygotic	True	fd	False	6.0
+ERR1310076	27.1	106.0	female	Cesarean	Dizygotic	True	fd	False	3.0
+ERR1310078	27.1	192.0	female	Cesarean	Dizygotic	True	fd	True	6.0
+ERR1310079	27.1	221.0	female	Cesarean	Dizygotic	True	fd	True	7.0
+ERR1310080	27.1	43.0	female	Cesarean	Dizygotic	True	fd	False	1.0
+ERR1310008	2.2	140.0	male	Cesarean	Dizygotic	False	fd	True	5.0
+ERR1310007	2.1	518.0	male	Cesarean	Dizygotic	False			17.0
+ERR1310006	2.1	487.0	male	Cesarean	Dizygotic	False			16.0
+ERR1309907	12.2	261.0	female	Vaginal	Monozygotic	False	fd	True	9.0
+ERR1309908	12.2	277.0	female	Vaginal	Monozygotic	False	fd	True	9.0
+ERR1309909	12.2	337.0	female	Vaginal	Monozygotic	False	fd	True	11.0
+ERR1309910	12.2	36.0	female	Vaginal	Monozygotic	False	fd	False	1.0
+ERR1309911	12.2	377.0	female	Vaginal	Monozygotic	False	fd	True	12.0
+ERR1309912	12.2	406.0	female	Vaginal	Monozygotic	False			13.0
+ERR1309913	12.2	71.0	female	Vaginal	Monozygotic	False	fd	False	2.0
+ERR1309914	13.1	201.0	female	Cesarean	Monozygotic	False	fd	True	7.0
+ERR1309915	13.1	305.0	female	Cesarean	Monozygotic	False	fd	True	10.0
+ERR1309916	13.1	327.0	female	Cesarean	Monozygotic	False	fd	True	11.0
+ERR1309917	13.1	62.0	female	Cesarean	Monozygotic	False	fd	False	2.0
+ERR1309918	13.2	180.0	female	Cesarean	Monozygotic	False	fd	True	6.0
+ERR1309919	13.2	189.0	female	Cesarean	Monozygotic	False	fd	True	6.0
+ERR1309920	13.2	305.0	female	Cesarean	Monozygotic	False	fd	True	10.0
+ERR1309906	12.2	189.0	female	Vaginal	Monozygotic	False	fd	True	6.0
+ERR1309921	13.2	327.0	female	Cesarean	Monozygotic	False	fd	True	11.0
+ERR1309923	13.2	61.0	female	Cesarean	Monozygotic	False	fd	False	2.0
+ERR1309924	14.1	159.0	male	Vaginal	Dizygotic	True	fd	True	5.0
+ERR1309925	14.1	216.0	male	Vaginal	Dizygotic	True	fd	True	7.0
+ERR1309926	14.1	247.0	male	Vaginal	Dizygotic	True	fd	True	8.0
+ERR1309927	14.1	277.0	male	Vaginal	Dizygotic	True	fd	True	9.0
+ERR1309928	14.1	297.0	male	Vaginal	Dizygotic	True			10.0
+ERR1309929	14.1	313.0	male	Vaginal	Dizygotic	True	fd	True	10.0
+ERR1309930	14.1	339.0	male	Vaginal	Dizygotic	True	fd	True	11.0
+ERR1309931	14.1	369.0	male	Vaginal	Dizygotic	True	no milk	True	12.0
+ERR1309932	14.1	396.0	male	Vaginal	Dizygotic	True			13.0
+ERR1309933	14.1	425.0	male	Vaginal	Dizygotic	True			14.0
+ERR1309934	14.2	159.0	female	Vaginal	Dizygotic	True	fd	True	5.0
+ERR1309935	14.2	193.0	female	Vaginal	Dizygotic	True	fd	True	6.0
+ERR1309936	14.2	247.0	female	Vaginal	Dizygotic	True	fd	True	8.0
+ERR1309922	13.2	341.0	female	Cesarean	Monozygotic	False	fd	True	11.0
+ERR1309937	14.2	278.0	female	Vaginal	Dizygotic	True	fd	True	9.0
+ERR1309905	12.2	132.0	female	Vaginal	Monozygotic	False	fd	False	4.0
+ERR1309903	12.1	70.0	female	Vaginal	Monozygotic	False	fd	False	2.0
+ERR1309873	25.1	812.0	female	Vaginal	Monozygotic	False			27.0
+ERR1309874	25.2	623.0	female	Cesarean_emergency	Monozygotic	False			20.0
+ERR1309875	25.2	812.0	female	Cesarean_emergency	Monozygotic	False			27.0
+ERR1309876	27.1	400.0	female	Cesarean	Dizygotic	True			13.0
+ERR1309877	27.1	440.0	female	Cesarean	Dizygotic	True			14.0
+ERR1309878	27.1	485.0	female	Cesarean	Dizygotic	True			16.0
+ERR1309879	27.1	628.0	female	Cesarean	Dizygotic	True			21.0
+ERR1309880	10.1	282.0	female	Cesarean	Dizygotic	True	bd	True	9.0
+ERR1309881	10.1	306.0	female	Cesarean	Dizygotic	True	bd	True	10.0
+ERR1309882	10.1	347.0	female	Cesarean	Dizygotic	True	bd	True	11.0
+ERR1309883	10.1	376.0	female	Cesarean	Dizygotic	True	bd	True	12.0
+ERR1309884	10.1	405.0	female	Cesarean	Dizygotic	True			13.0
+ERR1309885	10.1	438.0	female	Cesarean	Dizygotic	True			14.0
+ERR1309886	10.2	282.0	male	Cesarean	Dizygotic	True	bd	True	9.0
+ERR1309904	12.1	99.0	female	Vaginal	Monozygotic	False	fd	False	3.0
+ERR1309887	10.2	347.0	male	Cesarean	Dizygotic	True	bd	True	11.0
+ERR1309889	10.2	405.0	male	Cesarean	Dizygotic	True			13.0
+ERR1309890	10.2	375.0	male	Cesarean	Dizygotic	True	bd	True	12.0
+ERR1309891	10.2	438.0	male	Cesarean	Dizygotic	True			14.0
+ERR1309892	11.1	163.0	male	Vaginal	Dizygotic	False	fd	True	5.0
+ERR1309893	11.2	119.0	male	Vaginal	Dizygotic	False	fd	True	4.0
+ERR1309894	11.1	291.0	male	Vaginal	Dizygotic	False			10.0
+ERR1309895	11.2	224.0	male	Vaginal	Dizygotic	False	fd	True	7.0
+ERR1309896	11.2	292.0	male	Vaginal	Dizygotic	False	fd	True	10.0
+ERR1309897	12.1	261.0	female	Vaginal	Monozygotic	False	fd	True	9.0
+ERR1309898	12.1	189.0	female	Vaginal	Monozygotic	False	fd	True	6.0
+ERR1309899	12.1	277.0	female	Vaginal	Monozygotic	False	fd	True	9.0
+ERR1309900	12.1	337.0	female	Vaginal	Monozygotic	False	fd	True	11.0
+ERR1309901	12.1	428.0	female	Vaginal	Monozygotic	False			14.0
+ERR1309902	12.1	407.0	female	Vaginal	Monozygotic	False			13.0
+ERR1309888	10.2	306.0	male	Cesarean	Dizygotic	True	bd	True	10.0
+ERR1309938	14.2	313.0	female	Vaginal	Dizygotic	True	fd	True	10.0
+ERR1309939	14.2	340.0	female	Vaginal	Dizygotic	True	fd	True	11.0
+ERR1309940	14.2	396.0	female	Vaginal	Dizygotic	True			13.0
+ERR1309976	17.2	396.0	male	Vaginal	Dizygotic	True			13.0
+ERR1309977	18.1	128.0	female	Cesarean	Dizygotic	False	fd	True	4.0
+ERR1309978	18.1	253.0	female	Cesarean	Dizygotic	False	fd	True	8.0
+ERR1309979	18.1	274.0	female	Cesarean	Dizygotic	False	fd	True	9.0
+ERR1309980	18.1	312.0	female	Cesarean	Dizygotic	False	fd	True	10.0
+ERR1309981	18.1	336.0	female	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1309982	18.1	372.0	female	Cesarean	Dizygotic	False	no milk	True	12.0
+ERR1309983	18.1	39.0	female	Cesarean	Dizygotic	False	fd	False	1.0
+ERR1309984	18.1	398.0	female	Cesarean	Dizygotic	False			13.0
+ERR1309985	18.1	65.0	female	Cesarean	Dizygotic	False	fd	False	2.0
+ERR1309986	18.2	253.0	female	Cesarean	Dizygotic	False	fd	True	8.0
+ERR1309987	18.2	275.0	female	Cesarean	Dizygotic	False	fd	True	9.0
+ERR1309988	18.2	336.0	female	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1309989	18.2	398.0	female	Cesarean	Dizygotic	False			13.0
+ERR1309975	17.2	373.0	male	Vaginal	Dizygotic	True	fd	True	12.0
+ERR1309990	18.2	41.0	female	Cesarean	Dizygotic	False	bd	False	1.0
+ERR1309992	19.1	238.0	male	Cesarean	Monozygotic	True	bd	True	8.0
+ERR1309993	19.1	331.0	male	Cesarean	Monozygotic	True	bd	True	11.0
+ERR1309994	19.1	358.0	male	Cesarean	Monozygotic	True	bd	True	12.0
+ERR1309995	19.1	392.0	male	Cesarean	Monozygotic	True	bd	True	13.0
+ERR1309996	19.2	198.0	male	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1309997	19.2	238.0	male	Cesarean	Monozygotic	True	bd	True	8.0
+ERR1309998	19.2	271.0	male	Cesarean	Monozygotic	True	bd	True	9.0
+ERR1309999	19.2	331.0	male	Cesarean	Monozygotic	True	bd	True	11.0
+ERR1310000	19.2	98.0	male	Cesarean	Monozygotic	True	bd	False	3.0
+ERR1310001	2.1	102.0	male	Cesarean	Dizygotic	False	bd	False	3.0
+ERR1310002	2.1	156.0	male	Cesarean	Dizygotic	False	fd	True	5.0
+ERR1310003	2.1	205.0	male	Cesarean	Dizygotic	False			7.0
+ERR1310004	2.1	283.0	male	Cesarean	Dizygotic	False	fd	True	9.0
+ERR1310005	2.1	366.0	male	Cesarean	Dizygotic	False	fd	True	12.0
+ERR1309991	19.1	144.0	male	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1309974	17.2	345.0	male	Vaginal	Dizygotic	True	fd	True	11.0
+ERR1309973	17.2	275.0	male	Vaginal	Dizygotic	True	fd	True	9.0
+ERR1309972	17.2	331.0	male	Vaginal	Dizygotic	True			11.0
+ERR1309941	15.1	156.0	male	Vaginal	Monozygotic	True	bd	True	5.0
+ERR1309942	14.2	425.0	female	Vaginal	Dizygotic	True			14.0
+ERR1309943	15.1	252.0	male	Vaginal	Monozygotic	True	fd	True	8.0
+ERR1309944	15.2	107.0	male	Vaginal	Monozygotic	True	bd	True	4.0
+ERR1309945	16.1	322.0	female	Cesarean	Dizygotic	True	fd	True	11.0
+ERR1309946	16.1	203.0	female	Cesarean	Dizygotic	True	fd	True	7.0
+ERR1309947	16.1	343.0	female	Cesarean	Dizygotic	True	fd	True	11.0
+ERR1309948	16.1	420.0	female	Cesarean	Dizygotic	True			14.0
+ERR1309949	16.2	204.0	female	Cesarean	Dizygotic	True	fd	True	7.0
+ERR1309950	16.2	322.0	female	Cesarean	Dizygotic	True	fd	True	11.0
+ERR1309951	16.2	292.0	female	Cesarean	Dizygotic	True	fd	True	10.0
+ERR1309952	16.2	344.0	female	Cesarean	Dizygotic	True	fd	True	11.0
+ERR1309953	16.2	370.0	female	Cesarean	Dizygotic	True	no milk	True	12.0
+ERR1309954	16.2	420.0	female	Cesarean	Dizygotic	True			14.0
+ERR1309955	17.1	106.0	female	Vaginal	Dizygotic	True	bd	True	3.0
+ERR1309956	17.1	157.0	female	Vaginal	Dizygotic	True	fd	True	5.0
+ERR1309957	17.1	128.0	female	Vaginal	Dizygotic	True	bd	False	4.0
+ERR1309971	17.2	227.0	male	Vaginal	Dizygotic	True	fd	True	7.0
+ERR1309970	17.2	164.0	male	Vaginal	Dizygotic	True	fd	True	5.0
+ERR1309969	17.2	128.0	male	Vaginal	Dizygotic	True	bd	False	4.0
+ERR1309968	17.1	78.0	female	Vaginal	Dizygotic	True	bd	False	3.0
+ERR1309967	17.1	535.0	female	Vaginal	Dizygotic	True			18.0
+ERR1309966	17.1	47.0	female	Vaginal	Dizygotic	True	bd	False	2.0
+ERR1309965	17.1	428.0	female	Vaginal	Dizygotic	True			14.0
+ERR1309963	17.1	373.0	female	Vaginal	Dizygotic	True	fd	True	12.0
+ERR1309962	17.1	345.0	female	Vaginal	Dizygotic	True	fd	True	11.0
+ERR1309961	17.1	309.0	female	Vaginal	Dizygotic	True	fd	True	10.0
+ERR1309960	17.1	227.0	female	Vaginal	Dizygotic	True	fd	True	7.0
+ERR1309959	17.1	248.0	female	Vaginal	Dizygotic	True	fd	True	8.0
+ERR1309958	17.1	190.0	female	Vaginal	Dizygotic	True	fd	True	6.0
+ERR1309964	17.1	396.0	female	Vaginal	Dizygotic	True			13.0
+ERR1310689	24.1	64.0	male	Cesarean	Dizygotic	False	fd	False	2.0
+ERR1310691	24.2	591.0	male	Cesarean	Dizygotic	False			19.0
+ERR1313844	6.2	369.0	female	Vaginal	Unknown	False	fd	True	12.0
+ERR1313845	39.1	319.0	male	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1313846	39.1	684.0	male	Cesarean	Monozygotic	True			22.0
+ERR1313847	40.1	289.0	female	Vaginal	Monozygotic	True	fd	True	9.0
+ERR1313848	40.2	289.0	female	Vaginal	Monozygotic	True	fd	True	9.0
+ERR1313849	42.1	290.0	male	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1313850	42.2	290.0	male	Cesarean	Monozygotic	True	fd	True	10.0
+ERR1313854	6.2	400.0	female	Vaginal	Unknown	False			13.0
+ERR1313856	39.2	350.0	male	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1313857	42.1	321.0	male	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1313858	42.2	321.0	male	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1313859	44.2	282.0	male	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1313860	45.2	272.0	male	Cesarean	Dizygotic	False	fd	False	9.0
+ERR1313855	39.1	350.0	male	Cesarean	Monozygotic	True	fd	True	11.0
+ERR1313833	43.2	235.0	male	Cesarean	Monozygotic	False	fd	True	8.0
+ERR1313834	45.2	210.0	male	Cesarean	Dizygotic	False	bd	True	7.0
+ERR1313873	6.1	458.0	female	Vaginal	Unknown	False			15.0
+ERR1313908	8.2	535.0	female	Vaginal	Dizygotic	False			18.0
+ERR1313909	27.2	401.0	female	Cesarean	Dizygotic	True			13.0
+ERR1313910	39.1	501.0	male	Cesarean	Monozygotic	True			16.0
+ERR1313911	39.2	501.0	male	Cesarean	Monozygotic	True			16.0
+ERR1313912	43.1	83.0	male	Cesarean	Monozygotic	False	fd	False	3.0
+ERR1313916	3.1	939.0	male	Vaginal	Monozygotic	True			31.0
+ERR1313917	28.2	443.0	female	Cesarean	Monozygotic	False			15.0
+ERR1313918	30.1	781.0	female	Cesarean	Monozygotic	True			26.0
+ERR1313919	32.1	409.0	male	Cesarean	Monozygotic	True			13.0
+ERR1313920	32.2	409.0	male	Cesarean	Monozygotic	True			13.0
+ERR1313921	33.2	365.0	female	Cesarean	Dizygotic	False	fd	True	12.0
+ERR1313907	8.1	169.0	male	Vaginal	Dizygotic	False	fd	True	6.0
+ERR1313928	30.1	444.0	female	Cesarean	Monozygotic	True			15.0
+ERR1313929	30.2	444.0	female	Cesarean	Monozygotic	True			15.0
+ERR1313930	32.1	73.0	male	Cesarean	Monozygotic	True	fd	False	2.0
+ERR1313931	32.2	73.0	male	Cesarean	Monozygotic	True	fd	False	2.0
+ERR1313932	35.1	685.0	female	Vaginal	Monozygotic	False			23.0
+ERR1313933	35.2	685.0	female	Vaginal	Monozygotic	False			23.0
+ERR1313934	42.1	563.0	male	Cesarean	Monozygotic	True			18.0
+ERR1313935	42.2	563.0	male	Cesarean	Monozygotic	True			18.0
+ERR1313874	6.2	458.0	female	Vaginal	Unknown	False			15.0
+ERR1313881	40.1	410.0	female	Vaginal	Monozygotic	True			13.0
+ERR1313882	40.2	411.0	female	Vaginal	Monozygotic	True			14.0
+ERR1313883	28.1	717.0	female	Cesarean	Monozygotic	False			24.0
+ERR1313884	28.2	717.0	female	Cesarean	Monozygotic	False			24.0
+ERR1313885	29.1	708.0	female	Vaginal	Dizygotic	False			23.0
+ERR1313886	29.2	708.0	female	Vaginal	Dizygotic	False			23.0
+ERR1313887	39.1	471.0	male	Cesarean	Monozygotic	True			15.0
+ERR1313888	39.2	470.0	male	Cesarean	Monozygotic	True			15.0
+ERR1313324	45.1	539.0	male	Cesarean	Dizygotic	False			18.0
+ERR1313325	47.1	142.0	male	Vaginal	Monozygotic	True	fd	True	5.0
+ERR1313326	47.2	142.0	male	Cesarean_emergency	Monozygotic	True	fd	True	5.0
+ERR1313336	32.1	127.0	male	Cesarean	Monozygotic	True	fd	False	4.0
+ERR1313337	29.2	185.0	female	Vaginal	Dizygotic	False	bd	True	6.0
+ERR1313323	32.2	97.0	male	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1313341	8.2	1110.0	female	Vaginal	Dizygotic	False			36.0
+ERR1313342	47.2	601.0	male	Cesarean_emergency	Monozygotic	True			20.0
+ERR1313343	43.1	16.0	male	Cesarean	Monozygotic	False	fd	False	1.0
+ERR1313344	44.2	31.0	male	Cesarean	Monozygotic	True	fd	False	1.0
+ERR1313348	29.1	365.0	female	Vaginal	Dizygotic	False	bd	True	12.0
+ERR1313349	29.2	365.0	female	Vaginal	Dizygotic	False	bd	True	12.0
+ERR1313353	40.1	527.0	female	Vaginal	Monozygotic	True			17.0
+ERR1313354	40.2	528.0	female	Vaginal	Monozygotic	True			17.0
+ERR1313322	32.1	97.0	male	Cesarean	Monozygotic	True	fd	False	3.0
+ERR1313320	3.2	597.0	male	Vaginal	Monozygotic	True			20.0
+ERR1311647	27.1	337.0	female	Cesarean	Dizygotic	True	fd	True	11.0
+ERR1311648	27.1	371.0	female	Cesarean	Dizygotic	True	fd	True	12.0
+ERR1311649	27.1	426.0	female	Cesarean	Dizygotic	True			14.0
+ERR1311650	27.1	502.0	female	Cesarean	Dizygotic	True			16.0
+ERR1311651	27.1	561.0	female	Cesarean	Dizygotic	True			18.0
+ERR1313295	29.1	184.0	female	Vaginal	Dizygotic	False	bd	True	6.0
+ERR1313296	36.1	388.0	male	Cesarean	Monozygotic	True			13.0
+ERR1313297	36.2	388.0	male	Cesarean	Monozygotic	True			13.0
+ERR1313301	3.1	751.0	male	Vaginal	Monozygotic	True			25.0
+ERR1313302	3.2	751.0	male	Vaginal	Monozygotic	True			25.0
+ERR1313303	47.1	234.0	male	Vaginal	Monozygotic	True	fd	True	8.0
+ERR1313321	45.2	508.0	male	Cesarean	Dizygotic	False			17.0
+ERR1313304	47.2	234.0	male	Cesarean_emergency	Monozygotic	True	fd	True	8.0
+ERR1313306	29.1	303.0	female	Vaginal	Dizygotic	False	bd	True	10.0
+ERR1313307	29.2	303.0	female	Vaginal	Dizygotic	False	bd	True	10.0
+ERR1313308	30.1	284.0	female	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1313309	30.2	285.0	female	Cesarean	Monozygotic	True	fd	True	9.0
+ERR1313316	8.2	133.0	female	Vaginal	Dizygotic	False	fd	False	4.0
+ERR1313317	4.1	197.0	female	Cesarean	Dizygotic	True	fd	True	6.0
+ERR1313318	8.2	163.0	female	Vaginal	Dizygotic	False	fd	True	5.0
+ERR1313319	6.1	573.0	female	Vaginal	Unknown	False			19.0
+ERR1313305	6.2	55.0	female	Vaginal	Unknown	False	fd	False	2.0
+ERR1311646	27.1	286.0	female	Cesarean	Dizygotic	True	fd	True	9.0
+ERR1313355	42.1	528.0	male	Cesarean	Monozygotic	True			17.0
+ERR1313357	36.1	296.0	male	Cesarean	Monozygotic	True	no milk	True	10.0
+ERR1313395	6.1	58.0	female	Vaginal	Unknown	False	fd	True	2.0
+ERR1313396	28.1	620.0	female	Cesarean	Monozygotic	False			20.0
+ERR1313397	28.2	619.0	female	Cesarean	Monozygotic	False			20.0
+ERR1313398	30.1	225.0	female	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1313399	30.2	225.0	female	Cesarean	Monozygotic	True	fd	True	7.0
+ERR1313400	5.1	454.0	male	Cesarean	Dizygotic	False			15.0
+ERR1313404	43.1	48.0	male	Cesarean	Monozygotic	False	fd	False	2.0
+ERR1313405	43.2	48.0	male	Cesarean	Monozygotic	False	fd	False	2.0
+ERR1313406	44.1	32.0	male	Cesarean	Monozygotic	True	fd	False	1.0
+ERR1313410	5.1	576.0	male	Cesarean	Dizygotic	False			19.0
+ERR1313411	5.2	576.0	male	Cesarean	Dizygotic	False			19.0
+ERR1313412	27.2	426.0	female	Cesarean	Dizygotic	True			14.0
+ERR1313413	8.1	592.0	male	Vaginal	Dizygotic	False			19.0
+ERR1313414	8.2	592.0	female	Vaginal	Dizygotic	False			19.0
+ERR1313415	37.1	653.0	female	Cesarean	Monozygotic	True			21.0
+ERR1313416	37.2	653.0	female	Cesarean	Monozygotic	True			21.0
+ERR1313417	45.1	175.0	male	Cesarean	Dizygotic	False	fd	False	6.0
+ERR1313421	4.1	51.0	female	Cesarean	Dizygotic	True	fd	False	2.0
+ERR1313356	42.2	528.0	male	Cesarean	Monozygotic	True			17.0
+ERR1313358	36.2	296.0	male	Cesarean	Monozygotic	True	no milk	True	10.0
+ERR1313359	35.1	710.0	female	Vaginal	Monozygotic	False			23.0
+ERR1313360	35.2	709.0	female	Vaginal	Monozygotic	False			23.0
+ERR1313361	43.2	565.0	male	Cesarean	Monozygotic	False			19.0
+ERR1313362	45.2	175.0	male	Cesarean	Dizygotic	False	fd	False	6.0
+ERR1313372	30.1	135.0	female	Cesarean	Monozygotic	True	fd	False	4.0
+ERR1313374	32.1	160.0	male	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1313375	32.2	160.0	male	Cesarean	Monozygotic	True	fd	True	5.0
+ERR1313376	5.1	31.0	male	Cesarean	Dizygotic	False	fd	False	1.0
+ERR1313377	5.2	31.0	male	Cesarean	Dizygotic	False	fd	True	1.0
+ERR1313378	8.1	1111.0	male	Vaginal	Dizygotic	False			37.0
+ERR1313379	28.1	956.0	female	Cesarean	Monozygotic	False			31.0
+ERR1313380	28.2	957.0	female	Cesarean	Monozygotic	False			31.0
+ERR1313381	32.1	192.0	male	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1313382	32.2	192.0	male	Cesarean	Monozygotic	True	fd	True	6.0
+ERR1313373	30.1	897.0	female	Cesarean	Monozygotic	True			29.0
+ERR1311645	27.1	132.0	female	Cesarean	Dizygotic	True	fd	False	4.0
+ERR1311644	26.1	116.0	female	Vaginal	Dizygotic	False	fd	False	4.0
+ERR1311643	25.2	945.0	female	Cesarean_emergency	Monozygotic	False			31.0
+ERR1313976	32.1	531.0	male	Cesarean	Monozygotic	True			17.0
+ERR1313977	32.2	532.0	male	Cesarean	Monozygotic	True			17.0
+ERR1313978	33.1	488.0	female	Cesarean	Dizygotic	False			16.0
+ERR1313979	40.2	656.0	female	Vaginal	Monozygotic	True			22.0
+ERR1313980	43.1	267.0	male	Cesarean	Monozygotic	False	fd	True	9.0
+ERR1313981	43.2	633.0	male	Cesarean	Monozygotic	False			21.0
+ERR1311551	14.2	923.0	female	Vaginal	Dizygotic	True			30.0
+ERR1311552	14.2	95.0	female	Vaginal	Dizygotic	True	fd	False	3.0
+ERR1311553	14.2	984.0	female	Vaginal	Dizygotic	True			32.0
+ERR1311554	15.1	911.0	male	Vaginal	Monozygotic	True			30.0
+ERR1311555	15.1	977.0	male	Vaginal	Monozygotic	True			32.0
+ERR1311556	15.2	911.0	male	Vaginal	Monozygotic	True			30.0
+ERR1311557	15.2	977.0	male	Vaginal	Monozygotic	True			32.0
+ERR1313975	8.2	720.0	female	Vaginal	Dizygotic	False			24.0
+ERR1311558	16.1	135.0	female	Cesarean	Dizygotic	True	fd	False	4.0
+ERR1311560	16.1	881.0	female	Cesarean	Dizygotic	True			29.0
+ERR1311561	16.1	946.0	female	Cesarean	Dizygotic	True			31.0
+ERR1311562	16.1	997.0	female	Cesarean	Dizygotic	True			33.0
+ERR1311563	16.2	468.0	female	Cesarean	Dizygotic	True			15.0
+ERR1311564	16.2	509.0	female	Cesarean	Dizygotic	True			17.0
+ERR1311565	16.2	879.0	female	Cesarean	Dizygotic	True			29.0
+ERR1311566	16.2	948.0	female	Cesarean	Dizygotic	True			31.0
+ERR1311567	17.1	926.0	female	Vaginal	Dizygotic	True			30.0
+ERR1311568	17.1	986.0	female	Vaginal	Dizygotic	True			32.0
+ERR1311569	17.2	520.0	male	Vaginal	Dizygotic	True			17.0
+ERR1311570	17.2	76.0	male	Vaginal	Dizygotic	True	bd	False	2.0
+ERR1311571	17.2	926.0	male	Vaginal	Dizygotic	True			30.0
+ERR1311572	17.2	988.0	male	Vaginal	Dizygotic	True			32.0
+ERR1311573	18.1	899.0	female	Cesarean	Dizygotic	False			30.0
+ERR1311559	16.1	538.0	female	Cesarean	Dizygotic	True			18.0
+ERR1311574	18.1	960.0	female	Cesarean	Dizygotic	False			32.0
+ERR1313974	8.1	720.0	male	Vaginal	Dizygotic	False			24.0
+ERR1313948	27.1	919.0	female	Cesarean	Dizygotic	True			30.0
+ERR1313949	27.2	920.0	female	Cesarean	Dizygotic	True			30.0
+ERR1313950	28.1	899.0	female	Cesarean	Monozygotic	False			30.0
+ERR1313951	28.2	899.0	female	Cesarean	Monozygotic	False			30.0
+ERR1313952	40.1	258.0	female	Vaginal	Monozygotic	True	fd	True	8.0
+ERR1313953	40.1	624.0	female	Vaginal	Monozygotic	True			21.0
+ERR1313954	40.2	258.0	female	Vaginal	Monozygotic	True	fd	True	8.0
+ERR1313955	40.2	625.0	female	Vaginal	Monozygotic	True			21.0
+ERR1313956	42.1	625.0	male	Cesarean	Monozygotic	True			21.0
+ERR1313958	45.1	210.0	male	Cesarean	Dizygotic	False	no milk	True	7.0
+ERR1310690	24.1	96.0	male	Cesarean	Dizygotic	False	fd	True	3.0
+ERR1313957	43.1	602.0	male	Cesarean	Monozygotic	False			20.0
+ERR1311575	18.2	899.0	female	Cesarean	Dizygotic	False			30.0
+ERR1311576	18.2	961.0	female	Cesarean	Dizygotic	False			32.0
+ERR1311577	19.1	511.0	male	Cesarean	Monozygotic	True			17.0
+ERR1311613	23.1	457.0	male	Vaginal	Dizygotic	True			15.0
+ERR1311614	23.1	428.0	male	Vaginal	Dizygotic	True			14.0
+ERR1311615	23.1	532.0	male	Vaginal	Dizygotic	True			17.0
+ERR1311616	23.1	65.0	male	Vaginal	Dizygotic	True	fd	False	2.0
+ERR1311617	23.1	560.0	male	Vaginal	Dizygotic	True			18.0
+ERR1311618	23.2	128.0	male	Cesarean_emergency	Dizygotic	True	fd	False	4.0
+ERR1311619	23.2	36.0	male	Cesarean_emergency	Dizygotic	True	fd	False	1.0
+ERR1311620	23.2	429.0	male	Cesarean_emergency	Dizygotic	True			14.0
+ERR1311621	23.2	458.0	male	Cesarean_emergency	Dizygotic	True			15.0
+ERR1311622	23.2	533.0	male	Cesarean_emergency	Dizygotic	True			18.0
+ERR1311623	23.2	561.0	male	Cesarean_emergency	Dizygotic	True			18.0
+ERR1311624	23.2	65.0	male	Cesarean_emergency	Dizygotic	True	fd	False	2.0
+ERR1311625	24.1	890.0	male	Cesarean	Dizygotic	False			29.0
+ERR1311626	24.2	890.0	male	Cesarean	Dizygotic	False			29.0
+ERR1311612	23.1	36.0	male	Vaginal	Dizygotic	True	fd	False	1.0
+ERR1311627	25.1	406.0	female	Vaginal	Monozygotic	False			13.0
+ERR1311629	25.1	470.0	female	Vaginal	Monozygotic	False			15.0
+ERR1311630	25.1	511.0	female	Vaginal	Monozygotic	False			17.0
+ERR1311631	25.1	538.0	female	Vaginal	Monozygotic	False			18.0
+ERR1311632	25.1	862.0	female	Vaginal	Monozygotic	False			28.0
+ERR1311633	25.2	114.0	female	Cesarean_emergency	Monozygotic	False	bd	False	4.0
+ERR1311634	25.2	127.0	female	Cesarean_emergency	Monozygotic	False	bd	False	4.0
+ERR1311635	25.2	187.0	female	Cesarean_emergency	Monozygotic	False	bd	True	6.0
+ERR1311636	25.2	406.0	female	Cesarean_emergency	Monozygotic	False			13.0
+ERR1311637	25.2	440.0	female	Cesarean_emergency	Monozygotic	False			14.0
+ERR1311638	25.2	470.0	female	Cesarean_emergency	Monozygotic	False			15.0
+ERR1311639	25.2	511.0	female	Cesarean_emergency	Monozygotic	False			17.0
+ERR1311640	25.2	538.0	female	Cesarean_emergency	Monozygotic	False			18.0
+ERR1311641	25.2	65.0	female	Cesarean_emergency	Monozygotic	False	bd	False	2.0
+ERR1311642	25.2	862.0	female	Cesarean_emergency	Monozygotic	False			28.0
+ERR1311628	25.1	440.0	female	Vaginal	Monozygotic	False			14.0
+ERR1311611	23.1	366.0	male	Vaginal	Dizygotic	True	fd	True	12.0
+ERR1311610	21.2	282.0	female	Vaginal	Monozygotic	False	bd	True	9.0
+ERR1311609	20.2	898.0	male	Cesarean	Monozygotic	True			30.0
+ERR1311578	19.1	897.0	male	Cesarean	Monozygotic	True			29.0
+ERR1311579	19.1	962.0	male	Cesarean	Monozygotic	True			32.0
+ERR1311580	19.2	391.0	male	Cesarean	Monozygotic	True	fd	True	13.0
+ERR1311581	19.2	415.0	male	Cesarean	Monozygotic	True			14.0
+ERR1311582	19.2	440.0	male	Cesarean	Monozygotic	True			14.0
+ERR1311583	19.2	543.0	male	Cesarean	Monozygotic	True			18.0
+ERR1311584	19.2	900.0	male	Cesarean	Monozygotic	True			30.0
+ERR1311585	2.1	1025.0	male	Cesarean	Dizygotic	False			34.0
+ERR1311586	2.1	1078.0	male	Cesarean	Dizygotic	False			35.0
+ERR1311587	2.1	133.0	male	Cesarean	Dizygotic	False	fd	True	4.0
+ERR1311588	2.1	218.0	male	Cesarean	Dizygotic	False	fd	True	7.0
+ERR1311589	2.1	314.0	male	Cesarean	Dizygotic	False	fd	True	10.0
+ERR1311590	2.1	546.0	male	Cesarean	Dizygotic	False			18.0
+ERR1311591	2.1	700.0	male	Cesarean	Dizygotic	False			23.0
+ERR1311592	2.1	717.0	male	Cesarean	Dizygotic	False			24.0
+ERR1311593	2.1	747.0	male	Cesarean	Dizygotic	False			25.0
+ERR1311594	2.2	101.0	male	Cesarean	Dizygotic	False	bd	False	3.0
+ERR1311608	21.1	406.0	female	Vaginal	Monozygotic	False			13.0
+ERR1311607	20.2	834.0	male	Cesarean	Monozygotic	True			27.0
+ERR1311606	20.2	398.0	male	Cesarean	Monozygotic	True			13.0
+ERR1311605	20.2	465.0	male	Cesarean	Monozygotic	True			15.0
+ERR1311604	20.2	168.0	male	Cesarean	Monozygotic	True	bd	False	6.0
+ERR1311603	20.1	898.0	male	Cesarean	Monozygotic	True			30.0
+ERR1311602	20.1	167.0	male	Cesarean	Monozygotic	True	bd	False	5.0
+ERR1311600	2.2	747.0	male	Cesarean	Dizygotic	False			25.0
+ERR1311599	2.2	700.0	male	Cesarean	Dizygotic	False			23.0
+ERR1311598	2.2	630.0	male	Cesarean	Dizygotic	False			21.0
+ERR1311597	2.2	546.0	male	Cesarean	Dizygotic	False			18.0
+ERR1311596	2.2	338.0	male	Cesarean	Dizygotic	False	fd	True	11.0
+ERR1311595	2.2	1030.0	male	Cesarean	Dizygotic	False			34.0
+ERR1311601	20.1	398.0	male	Cesarean	Monozygotic	True			13.0
+ERR1310692	24.2	64.0	male	Cesarean	Dizygotic	False	fd	False	2.0
+ERR1310693	24.2	676.0	male	Cesarean	Dizygotic	False			22.0
+ERR1310694	24.2	95.0	male	Cesarean	Dizygotic	False	fd	True	3.0
+ERR1310695	25.1	246.0	female	Vaginal	Monozygotic	False	fd	True	8.0
+ERR1310696	25.1	335.0	female	Vaginal	Monozygotic	False	fd	True	11.0
+ERR1310697	25.1	595.0	female	Vaginal	Monozygotic	False			20.0
+ERR1310698	25.1	623.0	female	Vaginal	Monozygotic	False			20.0
+ERR1310699	25.1	945.0	female	Vaginal	Monozygotic	False			31.0
+ERR1310700	25.1	999.0	female	Vaginal	Monozygotic	False			33.0
+ERR1310701	25.2	247.0	female	Cesarean_emergency	Monozygotic	False	fd	True	8.0
+ERR1310702	25.2	335.0	female	Cesarean_emergency	Monozygotic	False	fd	True	11.0
+ERR1310703	25.2	594.0	female	Cesarean_emergency	Monozygotic	False			20.0
+ERR1310704	25.2	996.0	female	Cesarean_emergency	Monozygotic	False			33.0
+ERR1310705	26.1	74.0	female	Vaginal	Dizygotic	False	fd	False	2.0
+ERR1310707	27.1	250.0	female	Cesarean	Dizygotic	True	fd	True	8.0
+ERR1310708	27.1	310.0	female	Cesarean	Dizygotic	True	fd	True	10.0
+ERR1310709	27.1	594.0	female	Cesarean	Dizygotic	True			20.0
+ERR1310706	26.2	73.0	female	Vaginal	Dizygotic	False	fd	False	2.0

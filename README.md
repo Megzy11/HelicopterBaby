@@ -9,6 +9,6 @@ We analysed the microbial composition and performed statistical tests to compare
 3. Run ASV/ASV.ipynb
 4. Run taxonomy/taxonomy.ipynb
 5. Run Phylogeny, alpha and beta diversity/phylogeny.ipynb
-6. Run  Phylogeny, alpha and beta diversity/alpha_diversity.ipynb
+6. Run  Phylogeny, alpha and beta diversity/alpha_diversity_1124.ipynb
 7. Run  Phylogeny, alpha and beta diversity/beta_diversity.ipynb
 8. ...

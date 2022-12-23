@@ -8,8 +8,8 @@ A plethora of factors influence the development of infant's gut microbiome. On t
 3. Run ASV/ASV.ipynb
 4. Run taxonomy/taxonomy.ipynb
 5. Run Phylogeny, alpha and beta diversity/phylogeny.ipynb
-6. Run  Phylogeny, alpha and beta diversity/alpha_diversity_1124.ipynb
-7. Run  Phylogeny, alpha and beta diversity/beta_diversity.ipynb
+6. Run Phylogeny, alpha and beta diversity/alpha_diversity_1124.ipynb
+7. Run Phylogeny, alpha and beta diversity/beta_diversity.ipynb
 8. Run Differential abundance/ Differential_abundance.ipynb
 
 All other files can be run in any order.
